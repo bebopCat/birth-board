@@ -1,0 +1,79 @@
+[
+    {
+        "nombre_cancion": "The Tennessee Waltz",
+        "nombre_artista": "Patti Page",
+        "inicio_primer_lugar": "1950-12-30",
+        "final_primer_lugar": "1951-3-2",
+        "videoUrl": "https://www.youtube.com/embed/cQjSnHQLPTk"
+    },
+    {
+        "nombre_cancion": "If",
+        "nombre_artista": "Perry Como",
+        "inicio_primer_lugar": "1951-3-3",
+        "final_primer_lugar": "1951-3-9",
+        "videoUrl": "https://www.youtube.com/embed/Kud15JSV-TQ"
+    },
+    {
+        "nombre_cancion": "Be My Love",
+        "nombre_artista": "Mario Lanza",
+        "inicio_primer_lugar": "1951-3-10",
+        "final_primer_lugar": "1951-3-16",
+        "videoUrl": "https://www.youtube.com/embed/EbMaGM3FVek"
+    },
+    {
+        "nombre_cancion": "If",
+        "nombre_artista": "Perry Como",
+        "inicio_primer_lugar": "1951-3-17",
+        "final_primer_lugar": "1951-4-20",
+        "videoUrl": "https://www.youtube.com/embed/Kud15JSV-TQ"
+    },
+    {
+        "nombre_cancion": "How High the Moon",
+        "nombre_artista": "Les Paul and Mary Ford",
+        "inicio_primer_lugar": "1951-4-21",
+        "final_primer_lugar": "1951-6-22",
+        "videoUrl": "https://www.youtube.com/embed/1p8Wzy327E4"
+    },
+    {
+        "nombre_cancion": "Too Young",
+        "nombre_artista": "Nat King Cole",
+        "inicio_primer_lugar": "1951-6-23",
+        "final_primer_lugar": "1951-7-27",
+        "videoUrl": "https://www.youtube.com/embed/ONxT_xGTp2c"
+    },
+    {
+        "nombre_cancion": "Come on-a My House",
+        "nombre_artista": "Rosemary Clooney",
+        "inicio_primer_lugar": "1951-7-28",
+        "final_primer_lugar": "1951-9-7",
+        "videoUrl": "https://www.youtube.com/embed/0WthX_ddIRI"
+    },
+    {
+        "nombre_cancion": "Because of You",
+        "nombre_artista": "Tony Bennett",
+        "inicio_primer_lugar": "1951-9-8",
+        "final_primer_lugar": "1951-11-2",
+        "videoUrl": "https://www.youtube.com/embed/8PmXbMSZtFg"
+    },
+    {
+        "nombre_cancion": "Cold, Cold Heart",
+        "nombre_artista": "Tony Bennett",
+        "inicio_primer_lugar": "1951-11-3",
+        "final_primer_lugar": "1951-12-14",
+        "videoUrl": "https://www.youtube.com/embed/rfHbAsbxr9s"
+    },
+    {
+        "nombre_cancion": "(It's No) Sin",
+        "nombre_artista": "Eddy Howard",
+        "inicio_primer_lugar": "1951-12-15",
+        "final_primer_lugar": "1951-12-28",
+        "videoUrl": "https://www.youtube.com/embed/kmi3nZMFFrE"
+    },
+    {
+        "nombre_cancion": "Cry",
+        "nombre_artista": "Johnnie Ray and The Four Lads",
+        "inicio_primer_lugar": "1951-12-29",
+        "final_primer_lugar": "1952-3-14",
+        "videoUrl": "https://www.youtube.com/embed/CEu0mOmNMjs"
+    }
+]

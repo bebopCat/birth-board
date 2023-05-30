@@ -1,0 +1,135 @@
+[
+    {
+        "nombre_cancion": "Don't Forget About Us",
+        "nombre_artista": "Mariah Carey",
+        "inicio_primer_lugar": "2005-12-31",
+        "final_primer_lugar": "2006-1-13",
+        "videoUrl": "https://www.youtube.com/embed/GygmCUtzGFY"
+    },
+    {
+        "nombre_cancion": "Laffy Taffy",
+        "nombre_artista": "D4L",
+        "inicio_primer_lugar": "2006-1-14",
+        "final_primer_lugar": "2006-1-20",
+        "videoUrl": "https://www.youtube.com/embed/CgwVvjqzjIk"
+    },
+    {
+        "nombre_cancion": "Grillz",
+        "nombre_artista": "Nelly Ft. Paul Wall, Ali & Gipp",
+        "inicio_primer_lugar": "2006-1-21",
+        "final_primer_lugar": "2006-2-3",
+        "videoUrl": "https://www.youtube.com/embed/_DKG75k-WI8"
+    },
+    {
+        "nombre_cancion": "Check on It",
+        "nombre_artista": "Beyoncé Ft. Slim Thug",
+        "inicio_primer_lugar": "2006-2-4",
+        "final_primer_lugar": "2006-3-10",
+        "videoUrl": "https://www.youtube.com/embed/9MQjMh0ekXw"
+    },
+    {
+        "nombre_cancion": "You're Beautiful",
+        "nombre_artista": "James Blunt",
+        "inicio_primer_lugar": "2006-3-11",
+        "final_primer_lugar": "2006-3-17",
+        "videoUrl": "https://www.youtube.com/embed/J3SD2-XDGoQ"
+    },
+    {
+        "nombre_cancion": "So Sick",
+        "nombre_artista": "Ne-Yo",
+        "inicio_primer_lugar": "2006-3-18",
+        "final_primer_lugar": "2006-3-31",
+        "videoUrl": "https://www.youtube.com/embed/bVSSIO97Xvc"
+    },
+    {
+        "nombre_cancion": "Temperature",
+        "nombre_artista": "Sean Paul",
+        "inicio_primer_lugar": "2006-4-1",
+        "final_primer_lugar": "2006-4-7",
+        "videoUrl": "https://www.youtube.com/embed/ElFjZ_AAF_g"
+    },
+    {
+        "nombre_cancion": "Bad Day",
+        "nombre_artista": "Daniel Powter",
+        "inicio_primer_lugar": "2006-4-8",
+        "final_primer_lugar": "2006-5-12",
+        "videoUrl": "https://www.youtube.com/embed/gZLGVNNNH8s"
+    },
+    {
+        "nombre_cancion": "SOS",
+        "nombre_artista": "Rihanna",
+        "inicio_primer_lugar": "2006-5-13",
+        "final_primer_lugar": "2006-6-2",
+        "videoUrl": "https://www.youtube.com/embed/lpm5pcCC_-Q"
+    },
+    {
+        "nombre_cancion": "Ridin'",
+        "nombre_artista": "Chamillionaire Ft. Krayzie Bone",
+        "inicio_primer_lugar": "2006-6-3",
+        "final_primer_lugar": "2006-6-16",
+        "videoUrl": "https://www.youtube.com/embed/CVCaSBawDpc"
+    },
+    {
+        "nombre_cancion": "Hips Don't Lie",
+        "nombre_artista": "Shakira Ft. Wyclef Jean",
+        "inicio_primer_lugar": "2006-6-17",
+        "final_primer_lugar": "2006-6-30",
+        "videoUrl": "https://www.youtube.com/embed/q0V1yQueYwY"
+    },
+    {
+        "nombre_cancion": "Do I Make You Proud",
+        "nombre_artista": "Taylor Hicks",
+        "inicio_primer_lugar": "2006-7-1",
+        "final_primer_lugar": "2006-7-7",
+        "videoUrl": "https://www.youtube.com/embed/OLzATJrsG8o"
+    },
+    {
+        "nombre_cancion": "Promiscuous",
+        "nombre_artista": "Nelly Furtado Ft. Timbaland",
+        "inicio_primer_lugar": "2006-7-8",
+        "final_primer_lugar": "2006-8-18",
+        "videoUrl": "https://www.youtube.com/embed/NrLz4dweP5M"
+    },
+    {
+        "nombre_cancion": "London Bridge",
+        "nombre_artista": "Fergie",
+        "inicio_primer_lugar": "2006-8-19",
+        "final_primer_lugar": "2006-9-8",
+        "videoUrl": "https://www.youtube.com/embed/9WgKubW5Z0o"
+    },
+    {
+        "nombre_cancion": "SexyBack",
+        "nombre_artista": "Justin Timberlake",
+        "inicio_primer_lugar": "2006-9-9",
+        "final_primer_lugar": "2006-10-27",
+        "videoUrl": "https://www.youtube.com/embed/gfWQ1r6IQrY"
+    },
+    {
+        "nombre_cancion": "Money Maker",
+        "nombre_artista": "Ludacris Ft. Pharrell",
+        "inicio_primer_lugar": "2006-10-28",
+        "final_primer_lugar": "2006-11-10",
+        "videoUrl": "https://www.youtube.com/embed/_EDIg35QnI8"
+    },
+    {
+        "nombre_cancion": "My Love",
+        "nombre_artista": "Justin Timberlake Ft. T.I.",
+        "inicio_primer_lugar": "2006-11-11",
+        "final_primer_lugar": "2006-12-1",
+        "videoUrl": "https://www.youtube.com/embed/3LmSjmcUNh8"
+    },
+    {
+        "nombre_cancion": "I Wanna Love You",
+        "nombre_artista": "Akon Ft. Snoop Dogg",
+        "inicio_primer_lugar": "2006-12-2",
+        "final_primer_lugar": "2006-12-15",
+        "videoUrl": "https://www.youtube.com/embed/jOiqV38fyKM"
+    },
+    {
+        "nombre_cancion": "Irreplaceable",
+        "nombre_artista": "Beyoncé",
+        "inicio_primer_lugar": "2006-12-16",
+        "final_primer_lugar": "2007-2-23",
+        "videoUrl": "https://www.youtube.com/embed/UtkGxormq2k"
+    }
+]

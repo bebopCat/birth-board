@@ -1,0 +1,86 @@
+[
+    {
+        "nombre_cancion": "Hero",
+        "nombre_artista": "Mariah Carey",
+        "inicio_primer_lugar": "1993-12-25",
+        "final_primer_lugar": "1994-1-21",
+        "videoUrl": "https://www.youtube.com/embed/P3iGU3sFM5k"
+    },
+    {
+        "nombre_cancion": "All for Love",
+        "nombre_artista": "Bryan Adams / Rod Stewart / Sting",
+        "inicio_primer_lugar": "1994-1-22",
+        "final_primer_lugar": "1994-2-11",
+        "videoUrl": "https://www.youtube.com/embed/0hWM_D354a0"
+    },
+    {
+        "nombre_cancion": "The Power of Love",
+        "nombre_artista": "Céline Dion",
+        "inicio_primer_lugar": "1994-2-12",
+        "final_primer_lugar": "1994-3-11",
+        "videoUrl": "https://www.youtube.com/embed/LONLR3thzX8"
+    },
+    {
+        "nombre_cancion": "The Sign",
+        "nombre_artista": "Ace of Base",
+        "inicio_primer_lugar": "1994-3-12",
+        "final_primer_lugar": "1994-4-8",
+        "videoUrl": "https://www.youtube.com/embed/NIPPh7AWSt4"
+    },
+    {
+        "nombre_cancion": "Bump n' Grind",
+        "nombre_artista": "R. Kelly",
+        "inicio_primer_lugar": "1994-4-9",
+        "final_primer_lugar": "1994-5-6",
+        "videoUrl": "https://www.youtube.com/embed/PK-sHqa-sMk"
+    },
+    {
+        "nombre_cancion": "The Sign",
+        "nombre_artista": "Ace of Base",
+        "inicio_primer_lugar": "1994-5-7",
+        "final_primer_lugar": "1994-5-20",
+        "videoUrl": "https://www.youtube.com/embed/NIPPh7AWSt4"
+    },
+    {
+        "nombre_cancion": "I Swear",
+        "nombre_artista": "All-4-One",
+        "inicio_primer_lugar": "1994-5-21",
+        "final_primer_lugar": "1994-8-5",
+        "videoUrl": "https://www.youtube.com/embed/AgNh0gt5ezA"
+    },
+    {
+        "nombre_cancion": "Stay (I Missed You)",
+        "nombre_artista": "Lisa Loeb & Nine Stories",
+        "inicio_primer_lugar": "1994-8-6",
+        "final_primer_lugar": "1994-8-26",
+        "videoUrl": "https://www.youtube.com/embed/WaPfqaFc-80"
+    },
+    {
+        "nombre_cancion": "I'll Make Love to You",
+        "nombre_artista": "Boyz II Men",
+        "inicio_primer_lugar": "1994-8-27",
+        "final_primer_lugar": "1994-12-2",
+        "videoUrl": "https://www.youtube.com/embed/STuebI5z8yk"
+    },
+    {
+        "nombre_cancion": "On Bended Knee",
+        "nombre_artista": "Boyz II Men",
+        "inicio_primer_lugar": "1994-12-3",
+        "final_primer_lugar": "1994-12-16",
+        "videoUrl": "https://www.youtube.com/embed/o9FyV7ZrQ70"
+    },
+    {
+        "nombre_cancion": "Here Comes the Hotstepper",
+        "nombre_artista": "Ini Kamoze",
+        "inicio_primer_lugar": "1994-12-17",
+        "final_primer_lugar": "1994-12-30",
+        "videoUrl": "https://www.youtube.com/embed/JgRdT5KmS40"
+    },
+    {
+        "nombre_cancion": "On Bended Knee",
+        "nombre_artista": "Boyz II Men",
+        "inicio_primer_lugar": "1994-12-31",
+        "final_primer_lugar": "1995-1-27",
+        "videoUrl": "https://www.youtube.com/embed/o9FyV7ZrQ70"
+    }
+]

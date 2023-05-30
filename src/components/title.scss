@@ -1,0 +1,66 @@
+@import 'variables.scss';
+
+.header-title {
+    position: relative;
+    z-index: 200;
+    display: block;
+    color: $neutral;
+    text-align: center;
+    font-size: 14.5vmin;
+    font-family: $titles;
+    text-shadow: 3px 3px 5px black;
+    margin-top: 7.5vmin;
+    line-height: 50px;
+
+    @media screen and (min-width: #{$tablet}) {
+        margin-top: 8vmin;
+        line-height: 100px;
+    }
+    @media screen and (min-width: #{$desktop}) {
+        font-size: 12vmin;
+        margin-top: 15vmin;
+    }
+}
+
+.header-subtitle {
+    position: relative;
+    display: block;
+    z-index: 200;
+    color: white;
+    font-size: 4vmin;
+    font-family: $textMedium;
+    text-align: center;
+}
+
+.header-vinyl1 {
+    position: absolute;
+    top: -3.7vmin;
+    left: -3.3vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 195;
+    background-color: $neutral;
+    width: 35vw;
+    height: 35vw;
+    border-radius: 50%;
+    @media screen and (min-width: #{$tablet}) {
+        left: -3.5vmin;
+        width: 35vmin;
+        height: 35vmin;
+    }
+    @media screen and (min-width: #{$desktop}) {
+        width: 20vw;
+        height: 20vw;
+        position: absolute;
+        top: 0;
+        left: calc(50% - 10vw);
+        margin: 0 auto;
+    }
+    .header-vinyl2 {
+        background-color: $secondary;
+        width: 55%;
+        height: 55%;
+        border-radius: 50%;
+    }
+}

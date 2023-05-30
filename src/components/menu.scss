@@ -1,0 +1,228 @@
+@import 'variables.scss';
+
+#menu-container {
+    position: absolute;
+    bottom: 5px;
+    left: -85px;
+    display: flex;
+    box-sizing: border-box;
+    padding: 0 15px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    width: 80px;
+    transition: all .2s ease-out .3s;
+    box-sizing: border-box;
+    z-index: 205;
+    @media screen and (min-width: #{$tablet}) {
+        height: 18vmin;
+        width: 18vmin;
+        bottom: 10px;
+        left: -170px;
+    }
+    @media screen and (min-width: #{$desktop}) {
+        height: 80px;
+        width: 80px;
+        bottom: 10px;
+        left: -100px;
+    }
+}
+
+.hamburger {
+    width: 80px;
+    height: 80px;
+    padding: 15px 15px;
+    display: inline-block;
+    cursor: pointer;
+    transition-property: opacity, filter;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+    font: inherit;
+    color: inherit;
+    text-transform: none;
+    background-color: rgb(3, 6, 15);
+    border-radius: 50%;
+    border: 0;
+    margin: 0;
+    overflow: visible;
+    opacity: 0.7;
+    box-sizing: border-box;
+    @media screen and (min-width: #{$tablet}) {
+        height: 18vmin;
+        width: 18vmin;
+    }
+    @media screen and (min-width: #{$desktop}) {
+        height: 80px;
+        width: 80px;
+    }
+}
+.hamburger:hover {
+    opacity: 0.7;
+}
+.hamburger.is-active:hover {
+    opacity: 0.7;
+}
+.hamburger.is-active .hamburger-inner,
+.hamburger.is-active .hamburger-inner::before,
+.hamburger.is-active .hamburger-inner::after {
+        background-color: $primary;
+}
+.hamburger-box {
+    width: 40px;
+    height: 24px;
+    display: inline-block;
+    position: relative;
+}
+.hamburger-inner {
+    display: block;
+    top: 50%;
+    margin-top: -2px;
+}
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    width: 40px;
+    height: 4px;
+    background-color: $primary;
+    border-radius: 4px;
+    position: absolute;
+    transition-property: transform;
+    transition-duration: 0.15s;
+    transition-timing-function: ease;
+}
+.hamburger-inner::before, .hamburger-inner::after {
+    content: "";
+    display: block;
+}
+.hamburger-inner::before {
+    top: -10px;
+}
+.hamburger-inner::after {
+    bottom: -10px;
+}
+.hamburger--collapse .hamburger-inner {
+    top: auto;
+    bottom: 0;
+    transition-duration: 0.13s;
+    transition-delay: 0.13s;
+    transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+.hamburger--collapse .hamburger-inner::after {
+    top: -20px;
+    transition: top 0.2s 0.2s cubic-bezier(0.33333, 0.66667, 0.66667, 1), opacity 0.1s linear;
+}
+.hamburger--collapse .hamburger-inner::before {
+    transition: top 0.12s 0.2s cubic-bezier(0.33333, 0.66667, 0.66667, 1), transform 0.13s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+.hamburger--collapse.is-active .hamburger-inner {
+    transform: translate3d(0, -10px, 0) rotate(-45deg);
+    transition-delay: 0.22s;
+    transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.hamburger--collapse.is-active .hamburger-inner::after {
+    top: 0;
+    opacity: 0;
+    transition: top 0.2s cubic-bezier(0.33333, 0, 0.66667, 0.33333), opacity 0.1s 0.22s linear;
+}
+.hamburger--collapse.is-active .hamburger-inner::before {
+    top: 0;
+    transform: rotate(-90deg);
+    transition: top 0.1s 0.16s cubic-bezier(0.33333, 0, 0.66667, 0.33333), transform 0.13s 0.25s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.menu-lateral {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 15px 0px 30px 0px;
+    box-sizing: border-box;
+    width: 100vw;
+    height: auto;
+    background-color: $neutral;
+    transition: all ease-in-out .5s;
+    box-sizing: border-box;
+    z-index: 204;
+}
+.item-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    color: $secondary;
+    font-family: $textMedium;
+    font-size: 5vmin;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.sin-elementos {
+    display: block;
+    text-align: center;
+    color: $secondary;
+    font-family: $textMedium;
+}
+.is-active-panel {
+    transform: translate(-100vw, 0);
+}
+
+.back-button {
+    position: absolute;
+    bottom: 5px;
+    left: calc(-100vw + 5px);
+    width: 80px;
+    height: 80px;
+    padding: 15px 15px;
+    display: inline-block;
+    cursor: pointer;
+    transition-property: opacity, filter;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+    font: inherit;
+    color: inherit;
+    text-transform: none;
+    background-color: rgb(3, 6, 15);
+    border-radius: 50%;
+    border: 0;
+    margin: 0;
+    overflow: visible;
+    opacity: 0.7;
+    box-sizing: border-box;
+    z-index: 200;
+    &:hover {
+        opacity: 0.7;
+    }
+    @media screen and (min-width: #{$tablet}) {
+        height: 18vmin;
+        width: 18vmin;
+        bottom: 10px;
+        left: calc(-100vw + 10px);
+    }
+    @media screen and (min-width: #{$desktop}) {
+        height: 80px;
+        width: 80px;
+        bottom: 10px;
+        left: calc(-50vw + 10px);
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+    
+
+
+.bloqueo {
+    position: absolute;
+    left: -100vw;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,.5);
+    display: none;
+    z-index: 201;
+}
+.is-active-block {
+    display: block;
+}

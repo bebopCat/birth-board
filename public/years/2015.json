@@ -1,0 +1,93 @@
+[
+    {
+        "nombre_cancion": "Blank Space",
+        "nombre_artista": "Taylor Swift",
+        "inicio_primer_lugar": "2014-11-29",
+        "final_primer_lugar": "2015-1-16",
+        "videoUrl": "https://www.youtube.com/embed/2mIBS3fHp6A"
+    },
+    {
+        "nombre_cancion": "Uptown Funk",
+        "nombre_artista": "Mark Ronson Ft. Bruno Mars",
+        "inicio_primer_lugar": "2015-1-17",
+        "final_primer_lugar": "2015-4-24",
+        "videoUrl": "https://www.youtube.com/embed/7Ya2U8XN_Zw"
+    },
+    {
+        "nombre_cancion": "See You Again",
+        "nombre_artista": "Wiz Khalifa Ft. Charlie Puth",
+        "inicio_primer_lugar": "2015-4-25",
+        "final_primer_lugar": "2015-6-5",
+        "videoUrl": "https://www.youtube.com/embed/nugmZqIP0uk"
+    },
+    {
+        "nombre_cancion": "Bad Blood",
+        "nombre_artista": "Taylor Swift Ft. Kendrick Lamar",
+        "inicio_primer_lugar": "2015-6-6",
+        "final_primer_lugar": "2015-6-12",
+        "videoUrl": "https://www.youtube.com/embed/d2_FwIIQvWQ"
+    },
+    {
+        "nombre_cancion": "See You Again",
+        "nombre_artista": "Wiz Khalifa Ft. Charlie Puth",
+        "inicio_primer_lugar": "2015-6-13",
+        "final_primer_lugar": "2015-7-24",
+        "videoUrl": "https://www.youtube.com/embed/nugmZqIP0uk"
+    },
+    {
+        "nombre_cancion": "Cheerleader",
+        "nombre_artista": "Omi",
+        "inicio_primer_lugar": "2015-7-25",
+        "final_primer_lugar": "2015-8-21",
+        "videoUrl": "https://www.youtube.com/embed/aMk-SZoU_f4"
+    },
+    {
+        "nombre_cancion": "Can't Feel My Face",
+        "nombre_artista": "The Weeknd",
+        "inicio_primer_lugar": "2015-8-22",
+        "final_primer_lugar": "2015-8-28",
+        "videoUrl": "https://www.youtube.com/embed/dqt8Z1k0oWQ"
+    },
+    {
+        "nombre_cancion": "Cheerleader",
+        "nombre_artista": "Omi",
+        "inicio_primer_lugar": "2015-8-29",
+        "final_primer_lugar": "2015-9-11",
+        "videoUrl": "https://www.youtube.com/embed/aMk-SZoU_f4"
+    },
+    {
+        "nombre_cancion": "Can't Feel My Face",
+        "nombre_artista": "The Weeknd",
+        "inicio_primer_lugar": "2015-9-12",
+        "final_primer_lugar": "2015-9-18",
+        "videoUrl": "https://www.youtube.com/embed/dqt8Z1k0oWQ"
+    },
+    {
+        "nombre_cancion": "What Do You Mean?",
+        "nombre_artista": "Justin Bieber",
+        "inicio_primer_lugar": "2015-9-19",
+        "final_primer_lugar": "2015-9-25",
+        "videoUrl": "https://www.youtube.com/embed/jkPl0e8DlKc"
+    },
+    {
+        "nombre_cancion": "Can't Feel My Face",
+        "nombre_artista": "The Weeknd",
+        "inicio_primer_lugar": "2015-9-26",
+        "final_primer_lugar": "2015-10-2",
+        "videoUrl": "https://www.youtube.com/embed/dqt8Z1k0oWQ"
+    },
+    {
+        "nombre_cancion": "The Hills",
+        "nombre_artista": "The Weeknd",
+        "inicio_primer_lugar": "2015-10-3",
+        "final_primer_lugar": "2015-11-13",
+        "videoUrl": "https://www.youtube.com/embed/G5XpJP7f_SE"
+    },
+    {
+        "nombre_cancion": "Hello",
+        "nombre_artista": "Adele",
+        "inicio_primer_lugar": "2015-11-14",
+        "final_primer_lugar": "2016-1-22",
+        "videoUrl": "https://www.youtube.com/embed/T1tl66trXTQ"
+    }
+]

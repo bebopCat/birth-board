@@ -1,0 +1,212 @@
+[
+    {
+        "nombre_cancion": "Walk Like an Egyptian",
+        "nombre_artista": "The Bangles",
+        "inicio_primer_lugar": "1986-12-20",
+        "final_primer_lugar": "1987-1-16",
+        "videoUrl": "https://www.youtube.com/embed/k6o6SYSK43I"
+    },
+    {
+        "nombre_cancion": "Shake You Down",
+        "nombre_artista": "Gregory Abbott",
+        "inicio_primer_lugar": "1987-1-17",
+        "final_primer_lugar": "1987-1-23",
+        "videoUrl": "https://www.youtube.com/embed/3jUuZN6oKWM"
+    },
+    {
+        "nombre_cancion": "At This Moment",
+        "nombre_artista": "Billy Vera and the Beaters",
+        "inicio_primer_lugar": "1987-1-24",
+        "final_primer_lugar": "1987-2-6",
+        "videoUrl": "https://www.youtube.com/embed/sizTsLBxDdg"
+    },
+    {
+        "nombre_cancion": "Open Your Heart",
+        "nombre_artista": "Madonna",
+        "inicio_primer_lugar": "1987-2-7",
+        "final_primer_lugar": "1987-2-13",
+        "videoUrl": "https://www.youtube.com/embed/3D6YRSoLGm4"
+    },
+    {
+        "nombre_cancion": "Livin' on a Prayer",
+        "nombre_artista": "Bon Jovi",
+        "inicio_primer_lugar": "1987-2-14",
+        "final_primer_lugar": "1987-3-13",
+        "videoUrl": "https://www.youtube.com/embed/CuUefy9bT9U"
+    },
+    {
+        "nombre_cancion": "Jacob's Ladder",
+        "nombre_artista": "Huey Lewis and the News",
+        "inicio_primer_lugar": "1987-3-14",
+        "final_primer_lugar": "1987-3-20",
+        "videoUrl": "https://www.youtube.com/embed/iLbTKXzjUgo"
+    },
+    {
+        "nombre_cancion": "Lean on Me",
+        "nombre_artista": "Club Nouveau",
+        "inicio_primer_lugar": "1987-3-21",
+        "final_primer_lugar": "1987-4-3",
+        "videoUrl": "https://www.youtube.com/embed/c2l72uDHdyM"
+    },
+    {
+        "nombre_cancion": "Nothing's Gonna Stop Us Now",
+        "nombre_artista": "Starship",
+        "inicio_primer_lugar": "1987-4-4",
+        "final_primer_lugar": "1987-4-17",
+        "videoUrl": "https://www.youtube.com/embed/KQCOIQBjKic"
+    },
+    {
+        "nombre_cancion": "I Knew You Were Waiting (For Me)",
+        "nombre_artista": "Aretha Franklin and George Michael",
+        "inicio_primer_lugar": "1987-4-18",
+        "final_primer_lugar": "1987-5-1",
+        "videoUrl": "https://www.youtube.com/embed/j6dZgdRwKKo"
+    },
+    {
+        "nombre_cancion": "(I Just) Died in Your Arms",
+        "nombre_artista": "Cutting Crew",
+        "inicio_primer_lugar": "1987-5-2",
+        "final_primer_lugar": "1987-5-15",
+        "videoUrl": "https://www.youtube.com/embed/WS2aSv-TIrU"
+    },
+    {
+        "nombre_cancion": "With or Without You",
+        "nombre_artista": "U2",
+        "inicio_primer_lugar": "1987-5-16",
+        "final_primer_lugar": "1987-6-5",
+        "videoUrl": "https://www.youtube.com/embed/xgnnnNjKpvo"
+    },
+    {
+        "nombre_cancion": "You Keep Me Hangin' On",
+        "nombre_artista": "Kim Wilde",
+        "inicio_primer_lugar": "1987-6-6",
+        "final_primer_lugar": "1987-6-12",
+        "videoUrl": "https://www.youtube.com/embed/e5X8R-6Tp2c"
+    },
+    {
+        "nombre_cancion": "Always",
+        "nombre_artista": "Atlantic Starr",
+        "inicio_primer_lugar": "1987-6-13",
+        "final_primer_lugar": "1987-6-19",
+        "videoUrl": "https://www.youtube.com/embed/QSmycQEAhGY"
+    },
+    {
+        "nombre_cancion": "Head to Toe",
+        "nombre_artista": "Lisa Lisa and Cult Jam",
+        "inicio_primer_lugar": "1987-6-20",
+        "final_primer_lugar": "1987-6-26",
+        "videoUrl": "https://www.youtube.com/embed/ck2egUnhbt4"
+    },
+    {
+        "nombre_cancion": "I Wanna Dance with Somebody (Who Loves Me)",
+        "nombre_artista": "Whitney Houston",
+        "inicio_primer_lugar": "1987-6-27",
+        "final_primer_lugar": "1987-7-10",
+        "videoUrl": "https://www.youtube.com/embed/2dzf4T3RbEc"
+    },
+    {
+        "nombre_cancion": "Alone",
+        "nombre_artista": "Heart",
+        "inicio_primer_lugar": "1987-7-11",
+        "final_primer_lugar": "1987-7-31",
+        "videoUrl": "https://www.youtube.com/embed/oQci8dkMZM0"
+    },
+    {
+        "nombre_cancion": "Shakedown",
+        "nombre_artista": "Bob Seger",
+        "inicio_primer_lugar": "1987-8-1",
+        "final_primer_lugar": "1987-8-7",
+        "videoUrl": "https://www.youtube.com/embed/WkHDZ5NJ5Aw"
+    },
+    {
+        "nombre_cancion": "I Still Haven't Found What I'm Looking For",
+        "nombre_artista": "U2",
+        "inicio_primer_lugar": "1987-8-8",
+        "final_primer_lugar": "1987-8-21",
+        "videoUrl": "https://www.youtube.com/embed/UIuSWUuk4E4"
+    },
+    {
+        "nombre_cancion": "Who's That Girl",
+        "nombre_artista": "Madonna",
+        "inicio_primer_lugar": "1987-8-22",
+        "final_primer_lugar": "1987-8-28",
+        "videoUrl": "https://www.youtube.com/embed/ygR50bLsR3E"
+    },
+    {
+        "nombre_cancion": "La Bamba",
+        "nombre_artista": "Los Lobos",
+        "inicio_primer_lugar": "1987-8-29",
+        "final_primer_lugar": "1987-9-18",
+        "videoUrl": "https://www.youtube.com/embed/q2GEwHrC8VE"
+    },
+    {
+        "nombre_cancion": "I Just Can't Stop Loving You",
+        "nombre_artista": "Michael Jackson with Siedah Garrett",
+        "inicio_primer_lugar": "1987-9-19",
+        "final_primer_lugar": "1987-9-25",
+        "videoUrl": "https://www.youtube.com/embed/VDUPv15_bIc"
+    },
+    {
+        "nombre_cancion": "Didn't We Almost Have It All",
+        "nombre_artista": "Whitney Houston",
+        "inicio_primer_lugar": "1987-9-26",
+        "final_primer_lugar": "1987-10-9",
+        "videoUrl": "https://www.youtube.com/embed/c0TghfreFok"
+    },
+    {
+        "nombre_cancion": "Here I Go Again",
+        "nombre_artista": "Whitesnake",
+        "inicio_primer_lugar": "1987-10-10",
+        "final_primer_lugar": "1987-10-16",
+        "videoUrl": "https://www.youtube.com/embed/kXC_hoD1wxc"
+    },
+    {
+        "nombre_cancion": "Lost in Emotion",
+        "nombre_artista": "Lisa Lisa and Cult Jam",
+        "inicio_primer_lugar": "1987-10-17",
+        "final_primer_lugar": "1987-10-23",
+        "videoUrl": "https://www.youtube.com/embed/tjLS2KVXohc"
+    },
+    {
+        "nombre_cancion": "Bad",
+        "nombre_artista": "Michael Jackson",
+        "inicio_primer_lugar": "1987-10-24",
+        "final_primer_lugar": "1987-11-6",
+        "videoUrl": "https://www.youtube.com/embed/8bukKzVm7g8"
+    },
+    {
+        "nombre_cancion": "I Think We're Alone Now",
+        "nombre_artista": "Tiffany",
+        "inicio_primer_lugar": "1987-11-7",
+        "final_primer_lugar": "1987-11-20",
+        "videoUrl": "https://www.youtube.com/embed/rlUFLIMKbVY"
+    },
+    {
+        "nombre_cancion": "Mony Mony",
+        "nombre_artista": "Billy Idol",
+        "inicio_primer_lugar": "1987-11-21",
+        "final_primer_lugar": "1987-11-27",
+        "videoUrl": "https://www.youtube.com/embed/Qo-S5HlTKFE"
+    },
+    {
+        "nombre_cancion": "(I've Had) The Time of My Life",
+        "nombre_artista": "Bill Medley and Jennifer Warnes",
+        "inicio_primer_lugar": "1987-11-28",
+        "final_primer_lugar": "1987-12-4",
+        "videoUrl": "https://www.youtube.com/embed/jWXyTyym8mE"
+    },
+    {
+        "nombre_cancion": "Heaven Is a Place on Earth",
+        "nombre_artista": "Belinda Carlisle",
+        "inicio_primer_lugar": "1987-12-5",
+        "final_primer_lugar": "1987-12-11",
+        "videoUrl": "https://www.youtube.com/embed/vFPajU-d-Ek"
+    },
+    {
+        "nombre_cancion": "Faith",
+        "nombre_artista": "George Michael",
+        "inicio_primer_lugar": "1987-12-12",
+        "final_primer_lugar": "1988-12-8",
+        "videoUrl": "https://www.youtube.com/embed/N61LHFFfiik"
+    }
+]

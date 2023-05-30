@@ -1,0 +1,93 @@
+[
+    {
+        "nombre_cancion": "Black or White",
+        "nombre_artista": "Michael Jackson",
+        "inicio_primer_lugar": "1991-12-7",
+        "final_primer_lugar": "1992-1-24",
+        "videoUrl": "https://www.youtube.com/embed/YP3W-E0OamU"
+    },
+    {
+        "nombre_cancion": "All 4 Love",
+        "nombre_artista": "Color Me Badd",
+        "inicio_primer_lugar": "1992-1-25",
+        "final_primer_lugar": "1992-1-31",
+        "videoUrl": "https://www.youtube.com/embed/gaJtHeLXqJs"
+    },
+    {
+        "nombre_cancion": "Don't Let the Sun Go Down on Me",
+        "nombre_artista": "George Michael and Elton John",
+        "inicio_primer_lugar": "1992-2-1",
+        "final_primer_lugar": "1992-2-7",
+        "videoUrl": "https://www.youtube.com/embed/R9L1O426uF8"
+    },
+    {
+        "nombre_cancion": "I'm Too Sexy",
+        "nombre_artista": "Right Said Fred",
+        "inicio_primer_lugar": "1992-2-8",
+        "final_primer_lugar": "1992-2-28",
+        "videoUrl": "https://www.youtube.com/embed/hC_TDJGs1eY"
+    },
+    {
+        "nombre_cancion": "To Be with You",
+        "nombre_artista": "Mr. Big",
+        "inicio_primer_lugar": "1992-2-29",
+        "final_primer_lugar": "1992-3-20",
+        "videoUrl": "https://www.youtube.com/embed/ivtSA0-fbcg"
+    },
+    {
+        "nombre_cancion": "Save the Best for Last",
+        "nombre_artista": "Vanessa Williams",
+        "inicio_primer_lugar": "1992-3-21",
+        "final_primer_lugar": "1992-4-24",
+        "videoUrl": "https://www.youtube.com/embed/iUTkJOMtZ_g"
+    },
+    {
+        "nombre_cancion": "Jump",
+        "nombre_artista": "Kris Kross",
+        "inicio_primer_lugar": "1992-4-25",
+        "final_primer_lugar": "1992-6-19",
+        "videoUrl": "https://www.youtube.com/embed/2hTmmsu1LCs"
+    },
+    {
+        "nombre_cancion": "I'll Be There",
+        "nombre_artista": "Mariah Carey",
+        "inicio_primer_lugar": "1992-6-20",
+        "final_primer_lugar": "1992-7-3",
+        "videoUrl": "https://www.youtube.com/embed/6TTSLL1ajcs"
+    },
+    {
+        "nombre_cancion": "Baby Got Back",
+        "nombre_artista": "Sir Mix-a-Lot",
+        "inicio_primer_lugar": "1992-7-4",
+        "final_primer_lugar": "1992-8-7",
+        "videoUrl": "https://www.youtube.com/embed/49qFZ7d7jl8"
+    },
+    {
+        "nombre_cancion": "This Used to Be My Playground",
+        "nombre_artista": "Madonna",
+        "inicio_primer_lugar": "1992-8-8",
+        "final_primer_lugar": "1992-8-14",
+        "videoUrl": "https://www.youtube.com/embed/z-Ht38JjuCc"
+    },
+    {
+        "nombre_cancion": "End of the Road",
+        "nombre_artista": "Boyz II Men",
+        "inicio_primer_lugar": "1992-8-15",
+        "final_primer_lugar": "1992-11-13",
+        "videoUrl": "https://www.youtube.com/embed/JDt4SBk0lP8"
+    },
+    {
+        "nombre_cancion": "How Do You Talk to an Angel",
+        "nombre_artista": "The Heights",
+        "inicio_primer_lugar": "1992-11-14",
+        "final_primer_lugar": "1992-11-27",
+        "videoUrl": "https://www.youtube.com/embed/T0OHgvwBW9s"
+    },
+    {
+        "nombre_cancion": "I Will Always Love You",
+        "nombre_artista": "Whitney Houston",
+        "inicio_primer_lugar": "1992-11-28",
+        "final_primer_lugar": "1993-3-5",
+        "videoUrl": "https://www.youtube.com/embed/-DBOYVzJbkg"
+    }
+]

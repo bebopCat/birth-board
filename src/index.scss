@@ -1,0 +1,80 @@
+@import './components/variables.scss';
+
+@font-face{
+  font-family: "BrittanySignature";
+  src: url("../public/fonts/Brittany-Signature.ttf");
+}
+@font-face{
+  font-family: "NunitoSansBlack";
+  src: url("../public/fonts/NunitoSans-Black.ttf");
+}
+@font-face{
+  font-family: "OpenSansLight";
+  src: url("../public/fonts/OpenSans-Light.ttf");
+}
+@font-face{
+  font-family: "OpenSansMedium";
+  src: url("../public/fonts/OpenSans-Medium.ttf");
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+.hidden-html {
+  overflow: hidden;
+}
+body {
+  background-color: #ED7557;
+  width: 100%;
+}
+
+#root {
+  @media screen and (min-width: #{$desktop}) {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+.header-container {
+  z-index: 200;
+  @media screen and (min-width: #{$desktop}) {
+    position: sticky;
+    top: 0;
+    width: 50%;
+    height: 100vh;
+  }
+}
+
+.songs-container {
+  display: flex;
+  flex-direction: column-reverse;
+  background-color: #333333;
+  z-index: 200;
+  @media screen and (min-width: #{$desktop}) {
+    width: 50%;
+  }
+}
+
+.lateral-container {
+  position: fixed;
+  top: 0;
+  left: 100vw;
+  width: 100vw;
+  height: 100vh;
+  z-index: 210;
+}
+
+.add-elements {
+  font-family: $text;
+  color: white;
+  padding: 10vmin;
+  background-color: $primary;
+  @media screen and (min-width: #{$desktop}) {
+    width: 100%;
+    height: 100%;
+  }
+}

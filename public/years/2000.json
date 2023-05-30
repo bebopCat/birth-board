@@ -1,0 +1,135 @@
+[
+    {
+        "nombre_cancion": "Smooth",
+        "nombre_artista": "Santana Ft. Rob Thomas",
+        "inicio_primer_lugar": "1999-10-23",
+        "final_primer_lugar": "2000-1-14",
+        "videoUrl": "https://www.youtube.com/embed/QcUxrpIwuQ4"
+    },
+    {
+        "nombre_cancion": "What a Girl Wants",
+        "nombre_artista": "Christina Aguilera",
+        "inicio_primer_lugar": "2000-1-15",
+        "final_primer_lugar": "2000-1-28",
+        "videoUrl": "https://www.youtube.com/embed/TUiBSszpHIY"
+    },
+    {
+        "nombre_cancion": "I Knew I Loved You",
+        "nombre_artista": "Savage Garden",
+        "inicio_primer_lugar": "2000-1-29",
+        "final_primer_lugar": "2000-2-18",
+        "videoUrl": "https://www.youtube.com/embed/MKway7VaCPU"
+    },
+    {
+        "nombre_cancion": "Thank God I Found You",
+        "nombre_artista": "Mariah Carey Ft. Joe and 98 Degrees",
+        "inicio_primer_lugar": "2000-2-19",
+        "final_primer_lugar": "2000-2-25",
+        "videoUrl": "https://www.youtube.com/embed/iCJW6v3m1eI"
+    },
+    {
+        "nombre_cancion": "I Knew I Loved You",
+        "nombre_artista": "Savage Garden",
+        "inicio_primer_lugar": "2000-2-26",
+        "final_primer_lugar": "2000-3-3",
+        "videoUrl": "https://www.youtube.com/embed/MKway7VaCPU"
+    },
+    {
+        "nombre_cancion": "Amazed",
+        "nombre_artista": "Lonestar",
+        "inicio_primer_lugar": "2000-3-4",
+        "final_primer_lugar": "2000-3-17",
+        "videoUrl": "https://www.youtube.com/embed/wp9JA4sO3CA"
+    },
+    {
+        "nombre_cancion": "Say My Name",
+        "nombre_artista": "Destiny's Child",
+        "inicio_primer_lugar": "2000-3-18",
+        "final_primer_lugar": "2000-4-7",
+        "videoUrl": "https://www.youtube.com/embed/JguQIUGoE3E"
+    },
+    {
+        "nombre_cancion": "Maria Maria",
+        "nombre_artista": "Santana Ft. The Product G&B",
+        "inicio_primer_lugar": "2000-4-8",
+        "final_primer_lugar": "2000-6-16",
+        "videoUrl": "https://www.youtube.com/embed/kjPD_H81hDc"
+    },
+    {
+        "nombre_cancion": "Try Again",
+        "nombre_artista": "Aaliyah",
+        "inicio_primer_lugar": "2000-6-17",
+        "final_primer_lugar": "2000-6-23",
+        "videoUrl": "https://www.youtube.com/embed/MW3j1MWYVng"
+    },
+    {
+        "nombre_cancion": "Be with You",
+        "nombre_artista": "Enrique Iglesias",
+        "inicio_primer_lugar": "2000-6-24",
+        "final_primer_lugar": "2000-7-14",
+        "videoUrl": "https://www.youtube.com/embed/YbHBixMiSgk"
+    },
+    {
+        "nombre_cancion": "Everything You Want",
+        "nombre_artista": "Vertical Horizon",
+        "inicio_primer_lugar": "2000-7-15",
+        "final_primer_lugar": "2000-7-21",
+        "videoUrl": "https://www.youtube.com/embed/FwTQOPZvY3s"
+    },
+    {
+        "nombre_cancion": "Bent",
+        "nombre_artista": "Matchbox Twenty",
+        "inicio_primer_lugar": "2000-7-22",
+        "final_primer_lugar": "2000-7-28",
+        "videoUrl": "https://www.youtube.com/embed/2QzqFImaLFw"
+    },
+    {
+        "nombre_cancion": "It's Gonna Be Me",
+        "nombre_artista": "NSYNC",
+        "inicio_primer_lugar": "2000-7-29",
+        "final_primer_lugar": "2000-8-11",
+        "videoUrl": "https://www.youtube.com/embed/uWuNCQRcy7M"
+    },
+    {
+        "nombre_cancion": "Incomplete",
+        "nombre_artista": "Sisqó",
+        "inicio_primer_lugar": "2000-8-12",
+        "final_primer_lugar": "2000-8-25",
+        "videoUrl": "https://www.youtube.com/embed/0VaTnsIQjnM"
+    },
+    {
+        "nombre_cancion": "Doesn't Really Matter",
+        "nombre_artista": "Janet",
+        "inicio_primer_lugar": "2000-8-26",
+        "final_primer_lugar": "2000-9-15",
+        "videoUrl": "https://www.youtube.com/embed/jU-6eKwAoeo"
+    },
+    {
+        "nombre_cancion": "Music",
+        "nombre_artista": "Madonna",
+        "inicio_primer_lugar": "2000-9-16",
+        "final_primer_lugar": "2000-10-13",
+        "videoUrl": "https://www.youtube.com/embed/NsKF-IhR_mI"
+    },
+    {
+        "nombre_cancion": "Come On Over Baby (All I Want Is You)",
+        "nombre_artista": "Christina Aguilera",
+        "inicio_primer_lugar": "2000-10-14",
+        "final_primer_lugar": "2000-11-10",
+        "videoUrl": "https://www.youtube.com/embed/IU6IVRH2mQY"
+    },
+    {
+        "nombre_cancion": "With Arms Wide Open",
+        "nombre_artista": "Creed",
+        "inicio_primer_lugar": "2000-11-11",
+        "final_primer_lugar": "2000-11-17",
+        "videoUrl": "https://www.youtube.com/embed/CHktgegKEwo"
+    },
+    {
+        "nombre_cancion": "Independent Women",
+        "nombre_artista": "Destiny's Child",
+        "inicio_primer_lugar": "2000-11-18",
+        "final_primer_lugar": "2001-2-2",
+        "videoUrl": "https://www.youtube.com/embed/8amAj9Tvaeg"
+    }
+]

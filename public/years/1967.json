@@ -1,0 +1,142 @@
+[
+    {
+        "nombre_cancion": "I'm a Believer",
+        "nombre_artista": "The Monkees",
+        "inicio_primer_lugar": "1966-12-31",
+        "final_primer_lugar": "1967-2-17",
+        "videoUrl": "https://www.youtube.com/embed/Isru2gBoPj8"
+    },
+    {
+        "nombre_cancion": "Kind of a Drag",
+        "nombre_artista": "The Buckinghams",
+        "inicio_primer_lugar": "1967-2-18",
+        "final_primer_lugar": "1967-3-3",
+        "videoUrl": "https://www.youtube.com/embed/B7_QWucLqqo"
+    },
+    {
+        "nombre_cancion": "Ruby Tuesday",
+        "nombre_artista": "The Rolling Stones",
+        "inicio_primer_lugar": "1967-3-4",
+        "final_primer_lugar": "1967-3-10",
+        "videoUrl": "https://www.youtube.com/embed/mAyj9q2quYc"
+    },
+    {
+        "nombre_cancion": "Love Is Here and Now You're Gone",
+        "nombre_artista": "The Supremes",
+        "inicio_primer_lugar": "1967-3-11",
+        "final_primer_lugar": "1967-3-17",
+        "videoUrl": "https://www.youtube.com/embed/MlR8yGFngHQ"
+    },
+    {
+        "nombre_cancion": "Penny Lane",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1967-3-18",
+        "final_primer_lugar": "1967-3-24",
+        "videoUrl": "https://www.youtube.com/embed/oRJ2a-z5SI4"
+    },
+    {
+        "nombre_cancion": "Happy Together",
+        "nombre_artista": "The Turtles",
+        "inicio_primer_lugar": "1967-3-25",
+        "final_primer_lugar": "1967-4-14",
+        "videoUrl": "https://www.youtube.com/embed/2EbzKWbRDZ8"
+    },
+    {
+        "nombre_cancion": "Somethin' Stupid",
+        "nombre_artista": "Nancy Sinatra and Frank Sinatra",
+        "inicio_primer_lugar": "1967-4-15",
+        "final_primer_lugar": "1967-5-12",
+        "videoUrl": "https://www.youtube.com/embed/h6oAFnrAdq8"
+    },
+    {
+        "nombre_cancion": "The Happening",
+        "nombre_artista": "The Supremes",
+        "inicio_primer_lugar": "1967-5-13",
+        "final_primer_lugar": "1967-5-19",
+        "videoUrl": "https://www.youtube.com/embed/WJEmq6n_C3s"
+    },
+    {
+        "nombre_cancion": "Groovin'",
+        "nombre_artista": "The Young Rascals",
+        "inicio_primer_lugar": "1967-5-20",
+        "final_primer_lugar": "1967-6-2",
+        "videoUrl": "https://www.youtube.com/embed/yUWvVO9fK_M"
+    },
+    {
+        "nombre_cancion": "Respect",
+        "nombre_artista": "Aretha Franklin",
+        "inicio_primer_lugar": "1967-6-3",
+        "final_primer_lugar": "1967-6-16",
+        "videoUrl": "https://www.youtube.com/embed/9iayJ8u4Qew"
+    },
+    {
+        "nombre_cancion": "Groovin'",
+        "nombre_artista": "The Young Rascals",
+        "inicio_primer_lugar": "1967-6-17",
+        "final_primer_lugar": "1967-6-30",
+        "videoUrl": "https://www.youtube.com/embed/yUWvVO9fK_M"
+    },
+    {
+        "nombre_cancion": "Windy",
+        "nombre_artista": "The Association",
+        "inicio_primer_lugar": "1967-7-1",
+        "final_primer_lugar": "1967-7-28",
+        "videoUrl": "https://www.youtube.com/embed/tYwUZp7WaCU"
+    },
+    {
+        "nombre_cancion": "Light My Fire",
+        "nombre_artista": "The Doors",
+        "inicio_primer_lugar": "1967-7-29",
+        "final_primer_lugar": "1967-8-18",
+        "videoUrl": "https://www.youtube.com/embed/qoX6AKuYWL8"
+    },
+    {
+        "nombre_cancion": "All You Need Is Love",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1967-8-19",
+        "final_primer_lugar": "1967-8-25",
+        "videoUrl": "https://www.youtube.com/embed/4EGczv7iiEk"
+    },
+    {
+        "nombre_cancion": "Ode to Billie Joe",
+        "nombre_artista": "Bobbie Gentry",
+        "inicio_primer_lugar": "1967-8-26",
+        "final_primer_lugar": "1967-9-22",
+        "videoUrl": "https://www.youtube.com/embed/mCCHQyvZW4E"
+    },
+    {
+        "nombre_cancion": "The Letter",
+        "nombre_artista": "The Box Tops",
+        "inicio_primer_lugar": "1967-9-23",
+        "final_primer_lugar": "1967-10-20",
+        "videoUrl": "https://www.youtube.com/embed/K2b0bH-3xV0"
+    },
+    {
+        "nombre_cancion": "To Sir With Love",
+        "nombre_artista": "Lulu",
+        "inicio_primer_lugar": "1967-10-21",
+        "final_primer_lugar": "1967-11-24",
+        "videoUrl": "https://www.youtube.com/embed/S1elJ9CgjEA"
+    },
+    {
+        "nombre_cancion": "Incense and Peppermints",
+        "nombre_artista": "Strawberry Alarm Clock",
+        "inicio_primer_lugar": "1967-11-25",
+        "final_primer_lugar": "1967-12-1",
+        "videoUrl": "https://www.youtube.com/embed/cD1tcldiF1c"
+    },
+    {
+        "nombre_cancion": "Daydream Believer",
+        "nombre_artista": "The Monkees",
+        "inicio_primer_lugar": "1967-12-2",
+        "final_primer_lugar": "1967-12-29",
+        "videoUrl": "https://www.youtube.com/embed/0ya7sglTySY"
+    },
+    {
+        "nombre_cancion": "Hello, Goodbye",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1967-12-30",
+        "final_primer_lugar": "1968-1-19",
+        "videoUrl": "https://www.youtube.com/embed/ywZqBGHDTlA"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "nombre_cancion": "Cry",
+        "nombre_artista": "Johnnie Ray and The Four Lads",
+        "inicio_primer_lugar": "1951-12-29",
+        "final_primer_lugar": "1952-3-14",
+        "videoUrl": "https://www.youtube.com/embed/CEu0mOmNMjs"
+    },
+    {
+        "nombre_cancion": "Wheel of Fortune",
+        "nombre_artista": "Kay Starr",
+        "inicio_primer_lugar": "1952-3-15",
+        "final_primer_lugar": "1952-5-16",
+        "videoUrl": "https://www.youtube.com/embed/b3iamUsIsic"
+    },
+    {
+        "nombre_cancion": "Blue Tango",
+        "nombre_artista": "Leroy Anderson",
+        "inicio_primer_lugar": "1952-5-17",
+        "final_primer_lugar": "1952-6-6",
+        "videoUrl": "https://www.youtube.com/embed/0YEsJpKsbBU"
+    },
+    {
+        "nombre_cancion": "Here in My Heart",
+        "nombre_artista": "Al Martino",
+        "inicio_primer_lugar": "1952-6-7",
+        "final_primer_lugar": "1952-6-13",
+        "videoUrl": "https://www.youtube.com/embed/Uh0HFA_Mcsk"
+    },
+    {
+        "nombre_cancion": "Blue Tango",
+        "nombre_artista": "Leroy Anderson",
+        "inicio_primer_lugar": "1952-6-14",
+        "final_primer_lugar": "1952-6-20",
+        "videoUrl": "https://www.youtube.com/embed/0YEsJpKsbBU"
+    },
+    {
+        "nombre_cancion": "Here in My Heart",
+        "nombre_artista": "Al Martino",
+        "inicio_primer_lugar": "1952-6-21",
+        "final_primer_lugar": "1952-7-4",
+        "videoUrl": "https://www.youtube.com/embed/Uh0HFA_Mcsk"
+    },
+    {
+        "nombre_cancion": "Delicado",
+        "nombre_artista": "Percy Faith",
+        "inicio_primer_lugar": "1952-7-5",
+        "final_primer_lugar": "1952-7-11",
+        "videoUrl": "https://www.youtube.com/embed/z1JGCIPcmt0"
+    },
+    {
+        "nombre_cancion": "Auf Wiederseh'n Sweetheart",
+        "nombre_artista": "Vera Lynn",
+        "inicio_primer_lugar": "1952-7-12",
+        "final_primer_lugar": "1952-9-12",
+        "videoUrl": "https://www.youtube.com/embed/H3Gds1NA2Fw"
+    },
+    {
+        "nombre_cancion": "You Belong to Me",
+        "nombre_artista": "Jo Stafford",
+        "inicio_primer_lugar": "1952-9-13",
+        "final_primer_lugar": "1952-10-17",
+        "videoUrl": "https://www.youtube.com/embed/3BaIFfUyUnA"
+    },
+    {
+        "nombre_cancion": "I Went to Your Wedding",
+        "nombre_artista": "Patti Page",
+        "inicio_primer_lugar": "1952-10-18",
+        "final_primer_lugar": "1952-11-21",
+        "videoUrl": "https://www.youtube.com/embed/oTInhKopw3w"
+    },
+    {
+        "nombre_cancion": "It's in the Book (Parts 1 & 2)",
+        "nombre_artista": "Johnny Standley",
+        "inicio_primer_lugar": "1952-11-22",
+        "final_primer_lugar": "1952-11-28",
+        "videoUrl": "https://www.youtube.com/embed/xnGQiSfS8XA"
+    },
+    {
+        "nombre_cancion": "Why Don't You Believe Me?",
+        "nombre_artista": "Joni James",
+        "inicio_primer_lugar": "1952-11-29",
+        "final_primer_lugar": "1952-12-26",
+        "videoUrl": "https://www.youtube.com/embed/LLtODFQ_R5k"
+    },
+    {
+        "nombre_cancion": "I Saw Mommy Kissing Santa Claus",
+        "nombre_artista": "Jimmy Boyd",
+        "inicio_primer_lugar": "1952-12-27",
+        "final_primer_lugar": "1953-1-9",
+        "videoUrl": "https://www.youtube.com/embed/KA790bGpxaY"
+    }
+]

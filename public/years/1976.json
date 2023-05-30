@@ -1,0 +1,198 @@
+[
+    {
+        "nombre_cancion": "Let's Do It Again",
+        "nombre_artista": "The Staple Singers",
+        "inicio_primer_lugar": "1975-12-27",
+        "final_primer_lugar": "1976-1-2",
+        "videoUrl": "https://www.youtube.com/embed/8F-eFvwF31E"
+    },
+    {
+        "nombre_cancion": "Saturday Night",
+        "nombre_artista": "Bay City Rollers",
+        "inicio_primer_lugar": "1976-1-3",
+        "final_primer_lugar": "1976-1-9",
+        "videoUrl": "https://www.youtube.com/embed/cIb8UNiXILY"
+    },
+    {
+        "nombre_cancion": "Convoy",
+        "nombre_artista": "C. W. McCall",
+        "inicio_primer_lugar": "1976-1-10",
+        "final_primer_lugar": "1976-1-16",
+        "videoUrl": "https://www.youtube.com/embed/CJK07OhnOXI"
+    },
+    {
+        "nombre_cancion": "I Write the Songs",
+        "nombre_artista": "Barry Manilow",
+        "inicio_primer_lugar": "1976-1-17",
+        "final_primer_lugar": "1976-1-23",
+        "videoUrl": "https://www.youtube.com/embed/Zgy6d8xBvds"
+    },
+    {
+        "nombre_cancion": "Theme from Mahogany (Do You Know Where You're Going To)",
+        "nombre_artista": "Diana Ross",
+        "inicio_primer_lugar": "1976-1-24",
+        "final_primer_lugar": "1976-1-30",
+        "videoUrl": "https://www.youtube.com/embed/tzOhVTjEcyo"
+    },
+    {
+        "nombre_cancion": "Love Rollercoaster",
+        "nombre_artista": "Ohio Players",
+        "inicio_primer_lugar": "1976-1-31",
+        "final_primer_lugar": "1976-2-6",
+        "videoUrl": "https://www.youtube.com/embed/O91OiPxWa9s"
+    },
+    {
+        "nombre_cancion": "50 Ways to Leave Your Lover",
+        "nombre_artista": "Paul Simon",
+        "inicio_primer_lugar": "1976-2-7",
+        "final_primer_lugar": "1976-2-27",
+        "videoUrl": "https://www.youtube.com/embed/3SleL5I96QI"
+    },
+    {
+        "nombre_cancion": "Theme from S.W.A.T.",
+        "nombre_artista": "Rhythm Heritage",
+        "inicio_primer_lugar": "1976-2-28",
+        "final_primer_lugar": "1976-3-5",
+        "videoUrl": "https://www.youtube.com/embed/y12u6b3wU50"
+    },
+    {
+        "nombre_cancion": "Love Machine",
+        "nombre_artista": "The Miracles",
+        "inicio_primer_lugar": "1976-3-6",
+        "final_primer_lugar": "1976-3-12",
+        "videoUrl": "https://www.youtube.com/embed/ljGPJ-t1d6c"
+    },
+    {
+        "nombre_cancion": "December, 1963 (Oh, What a Night)",
+        "nombre_artista": "The Four Seasons",
+        "inicio_primer_lugar": "1976-3-13",
+        "final_primer_lugar": "1976-4-2",
+        "videoUrl": "https://www.youtube.com/embed/EEcqS1LhBfs"
+    },
+    {
+        "nombre_cancion": "Disco Lady",
+        "nombre_artista": "Johnnie Taylor",
+        "inicio_primer_lugar": "1976-4-3",
+        "final_primer_lugar": "1976-4-30",
+        "videoUrl": "https://www.youtube.com/embed/PVRQMlbkt74"
+    },
+    {
+        "nombre_cancion": "Let Your Love Flow",
+        "nombre_artista": "The Bellamy Brothers",
+        "inicio_primer_lugar": "1976-5-1",
+        "final_primer_lugar": "1976-5-7",
+        "videoUrl": "https://www.youtube.com/embed/cDSq6Dkd9AY"
+    },
+    {
+        "nombre_cancion": "Welcome Back",
+        "nombre_artista": "John Sebastian",
+        "inicio_primer_lugar": "1976-5-8",
+        "final_primer_lugar": "1976-5-14",
+        "videoUrl": "https://www.youtube.com/embed/MvrChwUJtxc"
+    },
+    {
+        "nombre_cancion": "Boogie Fever",
+        "nombre_artista": "The Sylvers",
+        "inicio_primer_lugar": "1976-5-15",
+        "final_primer_lugar": "1976-5-21",
+        "videoUrl": "https://www.youtube.com/embed/VfljiWYB5YY"
+    },
+    {
+        "nombre_cancion": "Silly Love Songs",
+        "nombre_artista": "Wings",
+        "inicio_primer_lugar": "1976-5-22",
+        "final_primer_lugar": "1976-5-28",
+        "videoUrl": "https://www.youtube.com/embed/oFXIHZ2mzIU"
+    },
+    {
+        "nombre_cancion": "Love Hangover",
+        "nombre_artista": "Diana Ross",
+        "inicio_primer_lugar": "1976-5-29",
+        "final_primer_lugar": "1976-6-11",
+        "videoUrl": "https://www.youtube.com/embed/z7O804mIrOs"
+    },
+    {
+        "nombre_cancion": "Silly Love Songs",
+        "nombre_artista": "Wings",
+        "inicio_primer_lugar": "1976-6-12",
+        "final_primer_lugar": "1976-7-11",
+        "videoUrl": "https://www.youtube.com/embed/oFXIHZ2mzIU"
+    },
+    {
+        "nombre_cancion": "Afternoon Delight",
+        "nombre_artista": "Starland Vocal Band",
+        "inicio_primer_lugar": "1976-7-10",
+        "final_primer_lugar": "1976-7-23",
+        "videoUrl": "https://www.youtube.com/embed/YtmRCXrCNPw"
+    },
+    {
+        "nombre_cancion": "Kiss and Say Goodbye",
+        "nombre_artista": "The Manhattans",
+        "inicio_primer_lugar": "1976-7-24",
+        "final_primer_lugar": "1976-8-6",
+        "videoUrl": "https://www.youtube.com/embed/df26BMxzykM"
+    },
+    {
+        "nombre_cancion": "Don't Go Breaking My Heart",
+        "nombre_artista": "Elton John and Kiki Dee",
+        "inicio_primer_lugar": "1976-8-7",
+        "final_primer_lugar": "1976-9-3",
+        "videoUrl": "https://www.youtube.com/embed/EJRNQjCZ2LQ"
+    },
+    {
+        "nombre_cancion": "You Should Be Dancing",
+        "nombre_artista": "Bee Gees",
+        "inicio_primer_lugar": "1976-9-4",
+        "final_primer_lugar": "1976-9-10",
+        "videoUrl": "https://www.youtube.com/embed/MjheHenXGtY"
+    },
+    {
+        "nombre_cancion": "(Shake, Shake, Shake) Shake Your Booty",
+        "nombre_artista": "KC and the Sunshine Band",
+        "inicio_primer_lugar": "1976-9-11",
+        "final_primer_lugar": "1976-9-17",
+        "videoUrl": "https://www.youtube.com/embed/nFpn0fw10Og"
+    },
+    {
+        "nombre_cancion": "Play That Funky Music",
+        "nombre_artista": "Wild Cherry",
+        "inicio_primer_lugar": "1976-9-18",
+        "final_primer_lugar": "1976-10-8",
+        "videoUrl": "https://www.youtube.com/embed/MDZsNksbw2Q"
+    },
+    {
+        "nombre_cancion": "A Fifth of Beethoven",
+        "nombre_artista": "Walter Murphy and the Big Apple Band",
+        "inicio_primer_lugar": "1976-10-9",
+        "final_primer_lugar": "1976-10-15",
+        "videoUrl": "https://www.youtube.com/embed/0ouMaLRth-s"
+    },
+    {
+        "nombre_cancion": "Disco Duck",
+        "nombre_artista": "Rick Dees and His Cast of Idiots",
+        "inicio_primer_lugar": "1976-10-16",
+        "final_primer_lugar": "1976-10-22",
+        "videoUrl": "https://www.youtube.com/embed/VfnANuLQhPE"
+    },
+    {
+        "nombre_cancion": "If You Leave Me Now",
+        "nombre_artista": "Chicago",
+        "inicio_primer_lugar": "1976-10-23",
+        "final_primer_lugar": "1976-10-5",
+        "videoUrl": "https://www.youtube.com/embed/TIozyjG3ozA"
+    },
+    {
+        "nombre_cancion": "Rock'n Me",
+        "nombre_artista": "Steve Miller Band",
+        "inicio_primer_lugar": "1976-11-6",
+        "final_primer_lugar": "1976-11-12",
+        "videoUrl": "https://www.youtube.com/embed/jUAfAqWE4OM"
+    },
+    {
+        "nombre_cancion": "Tonight's the Night (Gonna Be Alright)",
+        "nombre_artista": "Rod Stewart",
+        "inicio_primer_lugar": "1976-11-13",
+        "final_primer_lugar": "1977-1-7",
+        "videoUrl": "https://www.youtube.com/embed/5KKd0kE_21M"
+    }
+]

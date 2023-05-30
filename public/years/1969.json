@@ -1,0 +1,128 @@
+[
+    {
+        "nombre_cancion": "I Heard It Through the Grapevine",
+        "nombre_artista": "Marvin Gaye",
+        "inicio_primer_lugar": "1968-12-14",
+        "final_primer_lugar": "1969-1-31",
+        "videoUrl": "https://www.youtube.com/embed/Nr2YQJ7x9Aw"
+    },
+    {
+        "nombre_cancion": "Crimson and Clover",
+        "nombre_artista": "Tommy James and the Shondells",
+        "inicio_primer_lugar": "1969-2-1",
+        "final_primer_lugar": "1969-2-14",
+        "videoUrl": "https://www.youtube.com/embed/P5AseuS79lU"
+    },
+    {
+        "nombre_cancion": "Everyday People",
+        "nombre_artista": "Sly & the Family Stone",
+        "inicio_primer_lugar": "1969-2-15",
+        "final_primer_lugar": "1969-3-14",
+        "videoUrl": "https://www.youtube.com/embed/PSKJ5t4tE2I"
+    },
+    {
+        "nombre_cancion": "Dizzy",
+        "nombre_artista": "Tommy Roe",
+        "inicio_primer_lugar": "1969-3-15",
+        "final_primer_lugar": "1969-4-11",
+        "videoUrl": "https://www.youtube.com/embed/flFOAhH_S_4"
+    },
+    {
+        "nombre_cancion": "Aquarius/Let the Sunshine In",
+        "nombre_artista": "The 5th Dimension",
+        "inicio_primer_lugar": "1969-4-12",
+        "final_primer_lugar": "1969-5-23",
+        "videoUrl": "https://www.youtube.com/embed/cYGadeynxic"
+    },
+    {
+        "nombre_cancion": "Get Back",
+        "nombre_artista": "The Beatles with Billy Preston",
+        "inicio_primer_lugar": "1969-5-24",
+        "final_primer_lugar": "1969-6-27",
+        "videoUrl": "https://www.youtube.com/embed/YEESfv-11ng"
+    },
+    {
+        "nombre_cancion": "Love Theme from Romeo and Juliet",
+        "nombre_artista": "Henry Mancini",
+        "inicio_primer_lugar": "1969-6-28",
+        "final_primer_lugar": "1969-7-11",
+        "videoUrl": "https://www.youtube.com/embed/KOMzSDTXNnY"
+    },
+    {
+        "nombre_cancion": "In the Year 2525",
+        "nombre_artista": "Zager and Evans",
+        "inicio_primer_lugar": "1969-7-12",
+        "final_primer_lugar": "1969-8-22",
+        "videoUrl": "https://www.youtube.com/embed/eoJa3qVDL9o"
+    },
+    {
+        "nombre_cancion": "Honky Tonk Women",
+        "nombre_artista": "The Rolling Stones",
+        "inicio_primer_lugar": "1969-8-23",
+        "final_primer_lugar": "1969-9-19",
+        "videoUrl": "https://www.youtube.com/embed/urqALF0-dX4"
+    },
+    {
+        "nombre_cancion": "Sugar, Sugar",
+        "nombre_artista": "The Archies",
+        "inicio_primer_lugar": "1969-9-20",
+        "final_primer_lugar": "1969-10-17",
+        "videoUrl": "https://www.youtube.com/embed/nwgbfriHWt8"
+    },
+    {
+        "nombre_cancion": "I Can't Get Next to You",
+        "nombre_artista": "The Temptations",
+        "inicio_primer_lugar": "1969-10-18",
+        "final_primer_lugar": "1969-10-31",
+        "videoUrl": "https://www.youtube.com/embed/OrioXq_zZjI"
+    },
+    {
+        "nombre_cancion": "Suspicious Minds",
+        "nombre_artista": "Elvis Presley",
+        "inicio_primer_lugar": "1969-11-1",
+        "final_primer_lugar": "1969-11-7",
+        "videoUrl": "https://www.youtube.com/embed/ryhbmGbrnw8"
+    },
+    {
+        "nombre_cancion": "Wedding Bell Blues",
+        "nombre_artista": "The 5th Dimension",
+        "inicio_primer_lugar": "1969-11-8",
+        "final_primer_lugar": "1969-11-28",
+        "videoUrl": "https://www.youtube.com/embed/6CdeJQwcOfQ"
+    },
+    {
+        "nombre_cancion": "Come Together",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1969-11-29",
+        "final_primer_lugar": "1969-12-3",
+        "videoUrl": "https://www.youtube.com/embed/oolpPmuK2I8"
+    },
+    {
+        "nombre_cancion": "Something",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1969-12-4",
+        "final_primer_lugar": "1969-12-5",
+        "videoUrl": "https://www.youtube.com/embed/UelDrZ1aFeY"
+    },
+    {
+        "nombre_cancion": "Na Na Hey Hey Kiss Him Goodbye",
+        "nombre_artista": "Steam",
+        "inicio_primer_lugar": "1969-12-6",
+        "final_primer_lugar": "1969-12-19",
+        "videoUrl": "https://www.youtube.com/embed/FLFp37XRZc0"
+    },
+    {
+        "nombre_cancion": "Leaving on a Jet Plane",
+        "nombre_artista": "Peter, Paul and Mary",
+        "inicio_primer_lugar": "1969-12-20",
+        "final_primer_lugar": "1969-12-26",
+        "videoUrl": "https://www.youtube.com/embed/279uj02o1O8"
+    },
+    {
+        "nombre_cancion": "Someday We'll Be Together",
+        "nombre_artista": "Diana Ross & the Supremes",
+        "inicio_primer_lugar": "1969-12-27",
+        "final_primer_lugar": "1970-1-2",
+        "videoUrl": "https://www.youtube.com/embed/SEczRP79kt8"
+    }
+]

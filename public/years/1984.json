@@ -1,0 +1,142 @@
+[
+    {
+        "nombre_cancion": "Say Say Say",
+        "nombre_artista": "Paul McCartney and Michael Jackson",
+        "inicio_primer_lugar": "1983-12-10",
+        "final_primer_lugar": "1984-1-20",
+        "videoUrl": "https://www.youtube.com/embed/hu7hmBJLpkk"
+    },
+    {
+        "nombre_cancion": "Owner of a Lonely Heart",
+        "nombre_artista": "Yes",
+        "inicio_primer_lugar": "1984-1-21",
+        "final_primer_lugar": "1984-2-3",
+        "videoUrl": "https://www.youtube.com/embed/7LLzPPFc21o"
+    },
+    {
+        "nombre_cancion": "Karma Chameleon",
+        "nombre_artista": "Culture Club",
+        "inicio_primer_lugar": "1984-2-4",
+        "final_primer_lugar": "1984-2-24",
+        "videoUrl": "https://www.youtube.com/embed/prvSSuQPd-8"
+    },
+    {
+        "nombre_cancion": "Jump",
+        "nombre_artista": "Van Halen",
+        "inicio_primer_lugar": "1984-2-25",
+        "final_primer_lugar": "1984-3-30",
+        "videoUrl": "https://www.youtube.com/embed/ggJI9dKBk48"
+    },
+    {
+        "nombre_cancion": "Footloose",
+        "nombre_artista": "Kenny Loggins",
+        "inicio_primer_lugar": "1984-3-31",
+        "final_primer_lugar": "1984-4-20",
+        "videoUrl": "https://www.youtube.com/embed/jL4YlNUi7ZE"
+    },
+    {
+        "nombre_cancion": "Against All Odds (Take a Look at Me Now)",
+        "nombre_artista": "Phil Collins",
+        "inicio_primer_lugar": "1984-4-21",
+        "final_primer_lugar": "1984-5-11",
+        "videoUrl": "https://www.youtube.com/embed/pySoRz5T6mk"
+    },
+    {
+        "nombre_cancion": "Hello",
+        "nombre_artista": "Lionel Richie",
+        "inicio_primer_lugar": "1984-5-12",
+        "final_primer_lugar": "1984-5-25",
+        "videoUrl": "https://www.youtube.com/embed/EmHJaacNjKE"
+    },
+    {
+        "nombre_cancion": "Let's Hear It for the Boy",
+        "nombre_artista": "Deniece Williams",
+        "inicio_primer_lugar": "1984-5-26",
+        "final_primer_lugar": "1984-6-8",
+        "videoUrl": "https://www.youtube.com/embed/F6YKO_ztCr0"
+    },
+    {
+        "nombre_cancion": "Time After Time",
+        "nombre_artista": "Cyndi Lauper",
+        "inicio_primer_lugar": "1984-6-9",
+        "final_primer_lugar": "1984-6-22",
+        "videoUrl": "https://www.youtube.com/embed/F1mqrCTFoz4"
+    },
+    {
+        "nombre_cancion": "The Reflex",
+        "nombre_artista": "Duran Duran",
+        "inicio_primer_lugar": "1984-6-23",
+        "final_primer_lugar": "1984-7-6",
+        "videoUrl": "https://www.youtube.com/embed/xl_mWGyEUm8"
+    },
+    {
+        "nombre_cancion": "When Doves Cry",
+        "nombre_artista": "Prince",
+        "inicio_primer_lugar": "1984-7-7",
+        "final_primer_lugar": "1984-8-10",
+        "videoUrl": "https://www.youtube.com/embed/zp200BFqyBc"
+    },
+    {
+        "nombre_cancion": "Ghostbusters",
+        "nombre_artista": "Ray Parker Jr.",
+        "inicio_primer_lugar": "1984-8-11",
+        "final_primer_lugar": "1984-8-31",
+        "videoUrl": "https://www.youtube.com/embed/TaV1r341wYk"
+    },
+    {
+        "nombre_cancion": "What's Love Got to Do with It",
+        "nombre_artista": "Tina Turner",
+        "inicio_primer_lugar": "1984-9-1",
+        "final_primer_lugar": "1984-9-21",
+        "videoUrl": "https://www.youtube.com/embed/gGU8usqzgrg"
+    },
+    {
+        "nombre_cancion": "Missing You",
+        "nombre_artista": "John Waite",
+        "inicio_primer_lugar": "1984-9-22",
+        "final_primer_lugar": "1984-9-28",
+        "videoUrl": "https://www.youtube.com/embed/iYmwyOUosIc"
+    },
+    {
+        "nombre_cancion": "Let's Go Crazy",
+        "nombre_artista": "Prince and the Revolution",
+        "inicio_primer_lugar": "1984-9-29",
+        "final_primer_lugar": "1984-10-12",
+        "videoUrl": "https://www.youtube.com/embed/dmwLlj51iTA"
+    },
+    {
+        "nombre_cancion": "I Just Called to Say I Love You",
+        "nombre_artista": "Stevie Wonder",
+        "inicio_primer_lugar": "1984-10-13",
+        "final_primer_lugar": "1984-11-2",
+        "videoUrl": "https://www.youtube.com/embed/wyXNQiRCfRg"
+    },
+    {
+        "nombre_cancion": "Caribbean Queen (No More Love on the Run)",
+        "nombre_artista": "Billy Ocean",
+        "inicio_primer_lugar": "1984-11-3",
+        "final_primer_lugar": "1984-11-16",
+        "videoUrl": "https://www.youtube.com/embed/LaEuH6Hq5lo"
+    },
+    {
+        "nombre_cancion": "Wake Me Up Before You Go-Go",
+        "nombre_artista": "Wham!",
+        "inicio_primer_lugar": "1984-11-17",
+        "final_primer_lugar": "1984-12-7",
+        "videoUrl": "https://www.youtube.com/embed/R14lGgHgVJM"
+    },
+    {
+        "nombre_cancion": "Out of Touch",
+        "nombre_artista": "Daryl Hall and John Oates",
+        "inicio_primer_lugar": "1984-12-8",
+        "final_primer_lugar": "1984-12-21",
+        "videoUrl": "https://www.youtube.com/embed/IWRve2CFkI8"
+    },
+    {
+        "nombre_cancion": "Like a Virgin",
+        "nombre_artista": "Madonna",
+        "inicio_primer_lugar": "1984-12-22",
+        "final_primer_lugar": "1985-2-1",
+        "videoUrl": "https://www.youtube.com/embed/Rcl53YqPyUs"
+    }
+]

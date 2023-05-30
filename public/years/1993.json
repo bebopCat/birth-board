@@ -1,0 +1,79 @@
+[
+    {
+        "nombre_cancion": "I Will Always Love You",
+        "nombre_artista": "Whitney Houston",
+        "inicio_primer_lugar": "1992-11-28",
+        "final_primer_lugar": "1993-3-5",
+        "videoUrl": "https://www.youtube.com/embed/-DBOYVzJbkg"
+    },
+    {
+        "nombre_cancion": "A Whole New World",
+        "nombre_artista": "Peabo Bryson and Regina Belle",
+        "inicio_primer_lugar": "1993-3-6",
+        "final_primer_lugar": "1993-3-12",
+        "videoUrl": "https://www.youtube.com/embed/jFe1wtuZNYU"
+    },
+    {
+        "nombre_cancion": "Informer",
+        "nombre_artista": "Snow",
+        "inicio_primer_lugar": "1993-3-13",
+        "final_primer_lugar": "1993-4-30",
+        "videoUrl": "https://www.youtube.com/embed/dom-m5Ijrrs"
+    },
+    {
+        "nombre_cancion": "Freak Me",
+        "nombre_artista": "Silk",
+        "inicio_primer_lugar": "1993-5-1",
+        "final_primer_lugar": "1993-5-14",
+        "videoUrl": "https://www.youtube.com/embed/3qiknNcze10"
+    },
+    {
+        "nombre_cancion": "That's the Way Love Goes",
+        "nombre_artista": "Janet Jackson",
+        "inicio_primer_lugar": "1993-5-15",
+        "final_primer_lugar": "1993-7-9",
+        "videoUrl": "https://www.youtube.com/embed/RmqVkLRF_GE"
+    },
+    {
+        "nombre_cancion": "Weak",
+        "nombre_artista": "SWV",
+        "inicio_primer_lugar": "1993-7-10",
+        "final_primer_lugar": "1993-7-23",
+        "videoUrl": "https://www.youtube.com/embed/WmZncIhKvSM"
+    },
+    {
+        "nombre_cancion": "Can't Help Falling in Love",
+        "nombre_artista": "UB40",
+        "inicio_primer_lugar": "1993-7-24",
+        "final_primer_lugar": "1993-9-10",
+        "videoUrl": "https://www.youtube.com/embed/T-N7tKyHC4k"
+    },
+    {
+        "nombre_cancion": "Dreamlover",
+        "nombre_artista": "Mariah Carey",
+        "inicio_primer_lugar": "1993-9-11",
+        "final_primer_lugar": "1993-11-5",
+        "videoUrl": "https://www.youtube.com/embed/dN0J_twZu4c"
+    },
+    {
+        "nombre_cancion": "I'd Do Anything for Love (But I Won't Do That)",
+        "nombre_artista": "Meat Loaf",
+        "inicio_primer_lugar": "1993-11-6",
+        "final_primer_lugar": "1993-12-10",
+        "videoUrl": "https://www.youtube.com/embed/228ws5xGsbQ"
+    },
+    {
+        "nombre_cancion": "Again",
+        "nombre_artista": "Janet Jackson",
+        "inicio_primer_lugar": "1993-12-11",
+        "final_primer_lugar": "1993-12-24",
+        "videoUrl": "https://www.youtube.com/embed/os-qISjxgFo"
+    },
+    {
+        "nombre_cancion": "Hero",
+        "nombre_artista": "Mariah Carey",
+        "inicio_primer_lugar": "1993-12-25",
+        "final_primer_lugar": "1994-1-21",
+        "videoUrl": "https://www.youtube.com/embed/P3iGU3sFM5k"
+    }
+]

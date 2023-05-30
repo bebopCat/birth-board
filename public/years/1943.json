@@ -1,0 +1,100 @@
+[
+    {
+        "nombre_cancion": "White Christmas",
+        "nombre_artista": "Bing Crosby",
+        "inicio_primer_lugar": "1942-10-31",
+        "final_primer_lugar": "1943-1-15",
+        "videoUrl": "https://www.youtube.com/embed/QQyy8SpDpTY"
+    },
+    {
+        "nombre_cancion": "There Are Such Things",
+        "nombre_artista": "Tommy Dorsey",
+        "inicio_primer_lugar": "1943-1-16",
+        "final_primer_lugar": "1943-2-12",
+        "videoUrl": "https://www.youtube.com/embed/6lBmxVnhVW4"
+    },
+    {
+        "nombre_cancion": "I Had the Craziest Dream",
+        "nombre_artista": "Harry James",
+        "inicio_primer_lugar": "1943-2-13",
+        "final_primer_lugar": "1943-2-26",
+        "videoUrl": "https://www.youtube.com/embed/iKjpoMqJrPw"
+    },
+    {
+        "nombre_cancion": "There Are Such Things",
+        "nombre_artista": "Tommy Dorsey",
+        "inicio_primer_lugar": "1943-2-27",
+        "final_primer_lugar": "1943-3-5",
+        "videoUrl": "https://www.youtube.com/embed/6lBmxVnhVW4"
+    },
+    {
+        "nombre_cancion": "I've Heard That Song Before",
+        "nombre_artista": "Harry James",
+        "inicio_primer_lugar": "1943-3-6",
+        "final_primer_lugar": "1943-5-28",
+        "videoUrl": "https://www.youtube.com/embed/cK0j8_N_dBg"
+    },
+    {
+        "nombre_cancion": "That Old Black Magic",
+        "nombre_artista": "Glenn Miller",
+        "inicio_primer_lugar": "1943-5-29",
+        "final_primer_lugar": "1943-6-4",
+        "videoUrl": "https://www.youtube.com/embed/uZI5ezWkUhQ"
+    },
+    {
+        "nombre_cancion": "I've Heard That Song Before",
+        "nombre_artista": "Harry James",
+        "inicio_primer_lugar": "1943-6-5",
+        "final_primer_lugar": "1943-6-11",
+        "videoUrl": "https://www.youtube.com/embed/cK0j8_N_dBg"
+    },
+    {
+        "nombre_cancion": "Taking a Chance on Love",
+        "nombre_artista": "Benny Goodman",
+        "inicio_primer_lugar": "1943-6-12",
+        "final_primer_lugar": "1943-7-2",
+        "videoUrl": "https://www.youtube.com/embed/6Af_PSZpiEU"
+    },
+    {
+        "nombre_cancion": "Comin' in on a Wing and a Prayer",
+        "nombre_artista": "The Song Spinners",
+        "inicio_primer_lugar": "1943-7-3",
+        "final_primer_lugar": "1943-7-23",
+        "videoUrl": "https://www.youtube.com/embed/53bC2KCRAAI"
+    },
+    {
+        "nombre_cancion": "You'll Never Know",
+        "nombre_artista": "Dick Haymes",
+        "inicio_primer_lugar": "1943-7-24",
+        "final_primer_lugar": "1943-8-20",
+        "videoUrl": "https://www.youtube.com/embed/hLLOvnwA8H0"
+    },
+    {
+        "nombre_cancion": "In the Blue of Evening",
+        "nombre_artista": "Tommy Dorsey",
+        "inicio_primer_lugar": "1943-8-21",
+        "final_primer_lugar": "1943-9-10",
+        "videoUrl": "https://www.youtube.com/embed/m27MhMAihLA"
+    },
+    {
+        "nombre_cancion": "Sunday, Monday, or Always",
+        "nombre_artista": "Bing Crosby",
+        "inicio_primer_lugar": "1943-9-11",
+        "final_primer_lugar": "1943-10-29",
+        "videoUrl": "https://www.youtube.com/embed/5jpH1__t2rU"
+    },
+    {
+        "nombre_cancion": "Pistol Packin' Mama",
+        "nombre_artista": "Al Dexter",
+        "inicio_primer_lugar": "1943-10-30",
+        "final_primer_lugar": "1943-11-5",
+        "videoUrl": "https://www.youtube.com/embed/EwsJDFgBO9k"
+    },
+    {
+        "nombre_cancion": "Paper Doll",
+        "nombre_artista": "Mills Brothers",
+        "inicio_primer_lugar": "1943-11-6",
+        "final_primer_lugar": "1943-1-28",
+        "videoUrl": "https://www.youtube.com/embed/yYGtbXCADWQ"
+    }
+]

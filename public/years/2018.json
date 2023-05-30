@@ -1,0 +1,114 @@
+[
+    {
+        "nombre_cancion": "Perfect",
+        "nombre_artista": "Ed Sheeran y Beyoncé",
+        "inicio_primer_lugar": "2017-12-23",
+        "final_primer_lugar": "2018-1-26",
+        "videoUrl": "https://www.youtube.com/embed/CWG-GDfejmY"
+    },
+    {
+        "nombre_cancion": "Havana",
+        "nombre_artista": "Camila Cabello Ft. Young Thug",
+        "inicio_primer_lugar": "2018-1-27",
+        "final_primer_lugar": "2018-2-2",
+        "videoUrl": "https://www.youtube.com/embed/HCjNJDNzw8Y"
+    },
+    {
+        "nombre_cancion": "God's Plan",
+        "nombre_artista": "Drake",
+        "inicio_primer_lugar": "2018-2-3",
+        "final_primer_lugar": "2018-4-20",
+        "videoUrl": "https://www.youtube.com/embed/m1a_GqJf02M"
+    },
+    {
+        "nombre_cancion": "Nice for What",
+        "nombre_artista": "Drake",
+        "inicio_primer_lugar": "2018-4-21",
+        "final_primer_lugar": "2018-5-18",
+        "videoUrl": "https://www.youtube.com/embed/1Jx4Dv269uE"
+    },
+    {
+        "nombre_cancion": "This Is America",
+        "nombre_artista": "Childish Gambino",
+        "inicio_primer_lugar": "2018-5-19",
+        "final_primer_lugar": "2018-6-1",
+        "videoUrl": "https://www.youtube.com/embed/455cIDUClO0"
+    },
+    {
+        "nombre_cancion": "Nice for What",
+        "nombre_artista": "Drake",
+        "inicio_primer_lugar": "2018-6-2",
+        "final_primer_lugar": "2018-6-15",
+        "videoUrl": "https://www.youtube.com/embed/1Jx4Dv269uE"
+    },
+    {
+        "nombre_cancion": "Psycho",
+        "nombre_artista": "Post Malone Ft. Ty Dolla Sign",
+        "inicio_primer_lugar": "2018-6-16",
+        "final_primer_lugar": "2018-6-22",
+        "videoUrl": "https://www.youtube.com/embed/thMKwS-7kB4"
+    },
+    {
+        "nombre_cancion": "Nice for What",
+        "nombre_artista": "Drake",
+        "inicio_primer_lugar": "2018-6-23",
+        "final_primer_lugar": "2018-6-29",
+        "videoUrl": "https://www.youtube.com/embed/1Jx4Dv269uE"
+    },
+    {
+        "nombre_cancion": "Sad!",
+        "nombre_artista": "XXXTentacion",
+        "inicio_primer_lugar": "2018-6-30",
+        "final_primer_lugar": "2018-7-6",
+        "videoUrl": "https://www.youtube.com/embed/pgN-vvVVxMA"
+    },
+    {
+        "nombre_cancion": "I Like It",
+        "nombre_artista": "Cardi B, Bad Bunny y J Balvin",
+        "inicio_primer_lugar": "2018-7-7",
+        "final_primer_lugar": "2018-7-13",
+        "videoUrl": "https://www.youtube.com/embed/U4fErC9skHE"
+    },
+    {
+        "nombre_cancion": "Nice for What",
+        "nombre_artista": "Drake",
+        "inicio_primer_lugar": "2018-7-14",
+        "final_primer_lugar": "2018-7-20",
+        "videoUrl": "https://www.youtube.com/embed/1Jx4Dv269uE"
+    },
+    {
+        "nombre_cancion": "In My Feelings",
+        "nombre_artista": "Drake",
+        "inicio_primer_lugar": "2018-7-21",
+        "final_primer_lugar": "2018-9-28",
+        "videoUrl": "https://www.youtube.com/embed/SD1tkI5-3dI"
+    },
+    {
+        "nombre_cancion": "Girls Like You",
+        "nombre_artista": "Maroon 5 Ft. Cardi B",
+        "inicio_primer_lugar": "2018-9-29",
+        "final_primer_lugar": "2018-11-16",
+        "videoUrl": "https://www.youtube.com/embed/lceAOQkiq-w"
+    },
+    {
+        "nombre_cancion": "Thank U, Next",
+        "nombre_artista": "Ariana Grande",
+        "inicio_primer_lugar": "2018-11-17",
+        "final_primer_lugar": "2018-12-7",
+        "videoUrl": "https://www.youtube.com/embed/5OeR5XBEahU"
+    },
+    {
+        "nombre_cancion": "Sicko Mode",
+        "nombre_artista": "Travis Scott",
+        "inicio_primer_lugar": "2018-12-8",
+        "final_primer_lugar": "2018-12-14",
+        "videoUrl": "https://www.youtube.com/embed/d-JBBNg8YKs"
+    },
+    {
+        "nombre_cancion": "Thank U, Next",
+        "nombre_artista": "Ariana Grande",
+        "inicio_primer_lugar": "2018-12-15",
+        "final_primer_lugar": "2019-1-11",
+        "videoUrl": "https://www.youtube.com/embed/5OeR5XBEahU"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "nombre_cancion": "Buttons and Bows",
+        "nombre_artista": "Dinah Shore",
+        "inicio_primer_lugar": "1948-11-6",
+        "final_primer_lugar": "1949-1-7",
+        "videoUrl": "https://www.youtube.com/embed/1wkQsrU3pBs"
+    },
+    {
+        "nombre_cancion": "All I Want for Christmas (Is My Two Front Teeth)",
+        "nombre_artista": "Spike Jones",
+        "inicio_primer_lugar": "1949-1-8",
+        "final_primer_lugar": "1949-1-14",
+        "videoUrl": "https://www.youtube.com/embed/HuVOqEENsww"
+    },
+    {
+        "nombre_cancion": "Buttons and Bows",
+        "nombre_artista": "Dinah Shore",
+        "inicio_primer_lugar": "1949-1-15",
+        "final_primer_lugar": "1949-1-21",
+        "videoUrl": "https://www.youtube.com/embed/1wkQsrU3pBs"
+    },
+    {
+        "nombre_cancion": "A Little Bird Told Me",
+        "nombre_artista": "Evelyn Knight",
+        "inicio_primer_lugar": "1949-1-22",
+        "final_primer_lugar": "1949-3-11",
+        "videoUrl": "https://www.youtube.com/embed/f6J7LvSERRI"
+    },
+    {
+        "nombre_cancion": "Cruising Down the River",
+        "nombre_artista": "Blue Barron",
+        "inicio_primer_lugar": "1949-3-12",
+        "final_primer_lugar": "1949-4-8",
+        "videoUrl": "https://www.youtube.com/embed/aPYy1eGZoZA"
+    },
+    {
+        "nombre_cancion": "Cruising Down the River",
+        "nombre_artista": "Russ Morgan",
+        "inicio_primer_lugar": "1949-4-9",
+        "final_primer_lugar": "1949-5-13",
+        "videoUrl": "https://www.youtube.com/embed/rYtKjeaTbQQ"
+    },
+    {
+        "nombre_cancion": "(Ghost) Riders in the Sky: A Cowboy Legend",
+        "nombre_artista": "Vaughn Monroe",
+        "inicio_primer_lugar": "1949-5-14",
+        "final_primer_lugar": "1949-7-29",
+        "videoUrl": "https://www.youtube.com/embed/YAPCxfuBzyo"
+    },
+    {
+        "nombre_cancion": "Some Enchanted Evening",
+        "nombre_artista": "Perry Como",
+        "inicio_primer_lugar": "1949-7-30",
+        "final_primer_lugar": "1949-9-2",
+        "videoUrl": "https://www.youtube.com/embed/CoBYjhyVWFQ"
+    },
+    {
+        "nombre_cancion": "You're Breaking My Heart",
+        "nombre_artista": "Vic Damone",
+        "inicio_primer_lugar": "1949-9-3",
+        "final_primer_lugar": "1949-9-30",
+        "videoUrl": "https://www.youtube.com/embed/tbTAbpADKRI"
+    },
+    {
+        "nombre_cancion": "That Lucky Old Sun",
+        "nombre_artista": "Frankie Laine",
+        "inicio_primer_lugar": "1949-10-1",
+        "final_primer_lugar": "1949-11-25",
+        "videoUrl": "https://www.youtube.com/embed/_xgDbhn0hpo"
+    },
+    {
+        "nombre_cancion": "Mule Train",
+        "nombre_artista": "Frankie Laine",
+        "inicio_primer_lugar": "1949-11-26",
+        "final_primer_lugar": "1950-1-6",
+        "videoUrl": "https://www.youtube.com/embed/BL6RIfj-lzU"
+    }
+]

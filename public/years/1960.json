@@ -1,0 +1,149 @@
+[
+    {
+        "nombre_cancion": "Why",
+        "nombre_artista": "Frankie Avalon",
+        "inicio_primer_lugar": "1959-12-28",
+        "final_primer_lugar": "1960-1-3",
+        "videoUrl": "https://www.youtube.com/embed/md2CVvRji-w"
+    },
+    {
+        "nombre_cancion": "El Paso",
+        "nombre_artista": "Marty Robbins",
+        "inicio_primer_lugar": "1960-1-4",
+        "final_primer_lugar": "1960-1-17",
+        "videoUrl": "https://www.youtube.com/embed/k3eQQEbj9jk"
+    },
+    {
+        "nombre_cancion": "Running Bear",
+        "nombre_artista": "Johnny Preston",
+        "inicio_primer_lugar": "1960-1-18",
+        "final_primer_lugar": "1960-2-7",
+        "videoUrl": "https://www.youtube.com/embed/fP70cxnjhfU"
+    },
+    {
+        "nombre_cancion": "Teen Angel",
+        "nombre_artista": "Mark Dinning",
+        "inicio_primer_lugar": "1960-2-8",
+        "final_primer_lugar": "1960-2-21",
+        "videoUrl": "https://www.youtube.com/embed/5Y3DMO2joZk"
+    },
+    {
+        "nombre_cancion": "Theme from A Summer Place",
+        "nombre_artista": "Percy Faith",
+        "inicio_primer_lugar": "1960-2-22",
+        "final_primer_lugar": "1960-4-24",
+        "videoUrl": "https://www.youtube.com/embed/GJN-tZnLdcY"
+    },
+    {
+        "nombre_cancion": "Stuck on You",
+        "nombre_artista": "Elvis Presley",
+        "inicio_primer_lugar": "1960-4-25",
+        "final_primer_lugar": "1960-5-22",
+        "videoUrl": "https://www.youtube.com/embed/jVqR2PwX428"
+    },
+    {
+        "nombre_cancion": "Cathy's Clown",
+        "nombre_artista": "The Everly Brothers",
+        "inicio_primer_lugar": "1960-5-23",
+        "final_primer_lugar": "1960-6-26",
+        "videoUrl": "https://www.youtube.com/embed/mV6w3LTxMP8"
+    },
+    {
+        "nombre_cancion": "Everybody's Somebody's Fool",
+        "nombre_artista": "Connie Francis",
+        "inicio_primer_lugar": "1960-6-27",
+        "final_primer_lugar": "1960-7-10",
+        "videoUrl": "https://www.youtube.com/embed/ECOthzFvUXY"
+    },
+    {
+        "nombre_cancion": "Alley Oop",
+        "nombre_artista": "Hollywood Argyles",
+        "inicio_primer_lugar": "1960-7-11",
+        "final_primer_lugar": "1960-7-17",
+        "videoUrl": "https://www.youtube.com/embed/2SXZEOL2eto"
+    },
+    {
+        "nombre_cancion": "I'm Sorry",
+        "nombre_artista": "Brenda Lee",
+        "inicio_primer_lugar": "1960-7-18",
+        "final_primer_lugar": "1960-8-7",
+        "videoUrl": "https://www.youtube.com/embed/QyzS_zSpTiE"
+    },
+    {
+        "nombre_cancion": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+        "nombre_artista": "Brian Hyland",
+        "inicio_primer_lugar": "1960-8-8",
+        "final_primer_lugar": "1960-8-14",
+        "videoUrl": "https://www.youtube.com/embed/y_r7-Je_c20"
+    },
+    {
+        "nombre_cancion": "It's Now or Never",
+        "nombre_artista": "Elvis Presley",
+        "inicio_primer_lugar": "1960-8-15",
+        "final_primer_lugar": "1960-9-18",
+        "videoUrl": "https://www.youtube.com/embed/Uwelrtb8Oho"
+    },
+    {
+        "nombre_cancion": "The Twist",
+        "nombre_artista": "Chubby Checker",
+        "inicio_primer_lugar": "1960-9-19",
+        "final_primer_lugar": "1960-9-25",
+        "videoUrl": "https://www.youtube.com/embed/GF3VFxYMBD0"
+    },
+    {
+        "nombre_cancion": "My Heart Has a Mind of Its Own",
+        "nombre_artista": "Connie Francis",
+        "inicio_primer_lugar": "1960-9-26",
+        "final_primer_lugar": "1960-10-9",
+        "videoUrl": "https://www.youtube.com/embed/S4XDywplh1o"
+    },
+    {
+        "nombre_cancion": "Mr. Custer",
+        "nombre_artista": "Larry Verne",
+        "inicio_primer_lugar": "1960-10-10",
+        "final_primer_lugar": "1960-10-16",
+        "videoUrl": "https://www.youtube.com/embed/6QdDS9jSrB0"
+    },
+    {
+        "nombre_cancion": "Save the Last Dance for Me",
+        "nombre_artista": "The Drifters",
+        "inicio_primer_lugar": "1960-10-17",
+        "final_primer_lugar": "1960-10-23",
+        "videoUrl": "https://www.youtube.com/embed/npK8DTKrAdU"
+    },
+    {
+        "nombre_cancion": "I Want to Be Wanted",
+        "nombre_artista": "Brenda Lee",
+        "inicio_primer_lugar": "1960-10-24",
+        "final_primer_lugar": "1960-10-30",
+        "videoUrl": "https://www.youtube.com/embed/ZylzKPW-Kvs"
+    },
+    {
+        "nombre_cancion": "Save the Last Dance for Me",
+        "nombre_artista": "The Drifters",
+        "inicio_primer_lugar": "1960-10-31",
+        "final_primer_lugar": "1960-11-13",
+        "videoUrl": "https://www.youtube.com/embed/npK8DTKrAdU"
+    },
+    {
+        "nombre_cancion": "Georgia on My Mind",
+        "nombre_artista": "Ray Charles",
+        "inicio_primer_lugar": "1960-11-14",
+        "final_primer_lugar": "1960-11-20",
+        "videoUrl": "https://www.youtube.com/embed/6OLo1XUIEVI"
+    },
+    {
+        "nombre_cancion": "Stay",
+        "nombre_artista": "Maurice Williams and the Zodiacs",
+        "inicio_primer_lugar": "1960-11-21",
+        "final_primer_lugar": "1960-11-27",
+        "videoUrl": "https://www.youtube.com/embed/cP-YQYMDazY"
+    },
+    {
+        "nombre_cancion": "Are You Lonesome Tonight?",
+        "nombre_artista": "Elvis Presley",
+        "inicio_primer_lugar": "1960-11-28",
+        "final_primer_lugar": "1961-1-8",
+        "videoUrl": "https://www.youtube.com/embed/HK8r8MkxUX8"
+    }
+]

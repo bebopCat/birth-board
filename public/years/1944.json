@@ -1,0 +1,121 @@
+[
+    {
+        "nombre_cancion": "Paper Doll",
+        "nombre_artista": "Mills Brothers",
+        "inicio_primer_lugar": "1943-11-6",
+        "final_primer_lugar": "1944-1-28",
+        "videoUrl": "https://www.youtube.com/embed/yYGtbXCADWQ"
+    },
+    {
+        "nombre_cancion": "My Heart Tells Me (Should I Believe My Heart)",
+        "nombre_artista": "Glen Gray",
+        "inicio_primer_lugar": "1944-1-29",
+        "final_primer_lugar": "1944-3-3",
+        "videoUrl": "https://www.youtube.com/embed/DrfwVITSdFc"
+    },
+    {
+        "nombre_cancion": "Bésame Mucho (Kiss Me Much)",
+        "nombre_artista": "Jimmy Dorsey",
+        "inicio_primer_lugar": "1944-3-4",
+        "final_primer_lugar": "1944-4-21",
+        "videoUrl": "https://www.youtube.com/embed/lemtaUo8csE"
+    },
+    {
+        "nombre_cancion": "It's Love-Love-Love",
+        "nombre_artista": "Guy Lombardo",
+        "inicio_primer_lugar": "1944-4-22",
+        "final_primer_lugar": "1944-5-5",
+        "videoUrl": "https://www.youtube.com/embed/pD7_joddfCA"
+    },
+    {
+        "nombre_cancion": "I Love You",
+        "nombre_artista": "Bing Crosby",
+        "inicio_primer_lugar": "1944-5-6",
+        "final_primer_lugar": "1944-6-9",
+        "videoUrl": "https://www.youtube.com/embed/vUBodVAc00k"
+    },
+    {
+        "nombre_cancion": "I'll Get By (As Long as I Have You)",
+        "nombre_artista": "Harry James",
+        "inicio_primer_lugar": "1944-6-10",
+        "final_primer_lugar": "1944-6-30",
+        "videoUrl": "https://www.youtube.com/embed/Jh5NKLtojd4"
+    },
+    {
+        "nombre_cancion": "I'll Be Seeing You",
+        "nombre_artista": "Bing Crosby",
+        "inicio_primer_lugar": "1944-7-1",
+        "final_primer_lugar": "1944-7-7",
+        "videoUrl": "https://www.youtube.com/embed/SUvpf0yI8uA"
+    },
+    {
+        "nombre_cancion": "I'll Get By (As Long as I Have You)",
+        "nombre_artista": "Harry James",
+        "inicio_primer_lugar": "1944-7-8",
+        "final_primer_lugar": "1944-7-14",
+        "videoUrl": "https://www.youtube.com/embed/Jh5NKLtojd4"
+    },
+    {
+        "nombre_cancion": "I'll Be Seeing You",
+        "nombre_artista": "Bing Crosby",
+        "inicio_primer_lugar": "1944-7-15",
+        "final_primer_lugar": "1944-8-4",
+        "videoUrl": "https://www.youtube.com/embed/SUvpf0yI8uA"
+    },
+    {
+        "nombre_cancion": "Swinging on a Star",
+        "nombre_artista": "Bing Crosby",
+        "inicio_primer_lugar": "1944-8-5",
+        "final_primer_lugar": "1944-10-6",
+        "videoUrl": "https://www.youtube.com/embed/KNUg0t3D97w"
+    },
+    {
+        "nombre_cancion": "You Always Hurt the One You Love",
+        "nombre_artista": "Mills Brothers",
+        "inicio_primer_lugar": "1944-10-7",
+        "final_primer_lugar": "1944-10-13",
+        "videoUrl": "https://www.youtube.com/embed/TERo6fcOA5Y"
+    },
+    {
+        "nombre_cancion": "I'll Walk Alone",
+        "nombre_artista": "Dinah Shore",
+        "inicio_primer_lugar": "1944-10-14",
+        "final_primer_lugar": "1944-10-20",
+        "videoUrl": "https://www.youtube.com/embed/tJwr6uUti-o"
+    },
+    {
+        "nombre_cancion": "You Always Hurt the One You Love",
+        "nombre_artista": "Mills Brothers",
+        "inicio_primer_lugar": "1944-10-21",
+        "final_primer_lugar": "1944-11-3",
+        "videoUrl": "https://www.youtube.com/embed/TERo6fcOA5Y"
+    },
+    {
+        "nombre_cancion": "I'll Walk Alone",
+        "nombre_artista": "Dinah Shore",
+        "inicio_primer_lugar": "1944-11-4",
+        "final_primer_lugar": "1944-11-24",
+        "videoUrl": "https://www.youtube.com/embed/tJwr6uUti-o"
+    },
+    {
+        "nombre_cancion": "You Always Hurt the One You Love",
+        "nombre_artista": "Mills Brothers",
+        "inicio_primer_lugar": "1944-11-25",
+        "final_primer_lugar": "1944-12-8",
+        "videoUrl": "https://www.youtube.com/embed/TERo6fcOA5Y"
+    },
+    {
+        "nombre_cancion": "I'm Making Believe",
+        "nombre_artista": "The Ink Spots y Ella Fitzgerald",
+        "inicio_primer_lugar": "1944-12-9",
+        "final_primer_lugar": "1944-12-22",
+        "videoUrl": "https://www.youtube.com/embed/jk-6F56Y0-s"
+    },
+    {
+        "nombre_cancion": "Don't Fence Me In",
+        "nombre_artista": "Bing Crosby y The Andrews Sisters",
+        "inicio_primer_lugar": "1944-12-23",
+        "final_primer_lugar": "1945-2-16",
+        "videoUrl": "https://www.youtube.com/embed/ILyuEtGrMwI"
+    }
+]

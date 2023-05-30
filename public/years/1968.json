@@ -1,0 +1,114 @@
+[
+    {
+        "nombre_cancion": "Hello, Goodbye",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1967-12-30",
+        "final_primer_lugar": "1968-1-19",
+        "videoUrl": "https://www.youtube.com/embed/ywZqBGHDTlA"
+    },
+    {
+        "nombre_cancion": "Judy in Disguise (With Glasses)",
+        "nombre_artista": "John Fred and His Playboy Band",
+        "inicio_primer_lugar": "1968-1-20",
+        "final_primer_lugar": "1968-2-2",
+        "videoUrl": "https://www.youtube.com/embed/n5JSKKPC2Cs"
+    },
+    {
+        "nombre_cancion": "Green Tambourine",
+        "nombre_artista": "The Lemon Pipers",
+        "inicio_primer_lugar": "1968-2-3",
+        "final_primer_lugar": "1968-2-9",
+        "videoUrl": "https://www.youtube.com/embed/WYoGYTD3f9Y"
+    },
+    {
+        "nombre_cancion": "Love is Blue",
+        "nombre_artista": "Paul Mauriat",
+        "inicio_primer_lugar": "1968-2-10",
+        "final_primer_lugar": "1968-3-15",
+        "videoUrl": "https://www.youtube.com/embed/IhUUHXU8x44"
+    },
+    {
+        "nombre_cancion": "(Sittin' On) The Dock of the Bay",
+        "nombre_artista": "Otis Redding",
+        "inicio_primer_lugar": "1968-3-16",
+        "final_primer_lugar": "1968-4-12",
+        "videoUrl": "https://www.youtube.com/embed/l6blw0l8Ym0"
+    },
+    {
+        "nombre_cancion": "Honey",
+        "nombre_artista": "Bobby Goldsboro",
+        "inicio_primer_lugar": "1968-4-13",
+        "final_primer_lugar": "1968-5-17",
+        "videoUrl": "https://www.youtube.com/embed/IP8038pA4FM"
+    },
+    {
+        "nombre_cancion": "Tighten Up",
+        "nombre_artista": "Archie Bell & the Drells",
+        "inicio_primer_lugar": "1968-5-18",
+        "final_primer_lugar": "1968-5-31",
+        "videoUrl": "https://www.youtube.com/embed/_6X6xGl2xts"
+    },
+    {
+        "nombre_cancion": "Mrs. Robinson",
+        "nombre_artista": "Simon & Garfunkel",
+        "inicio_primer_lugar": "1968-6-1",
+        "final_primer_lugar": "1968-6-21",
+        "videoUrl": "https://www.youtube.com/embed/RN5qRJE8qtM"
+    },
+    {
+        "nombre_cancion": "This Guy's in Love with You",
+        "nombre_artista": "Herb Alpert",
+        "inicio_primer_lugar": "1968-6-22",
+        "final_primer_lugar": "1968-7-19",
+        "videoUrl": "https://www.youtube.com/embed/HZc3hVoUZzk"
+    },
+    {
+        "nombre_cancion": "Grazing in the Grass",
+        "nombre_artista": "Hugh Masekela",
+        "inicio_primer_lugar": "1968-7-20",
+        "final_primer_lugar": "1968-8-2",
+        "videoUrl": "https://www.youtube.com/embed/C7dF6GtoU4w"
+    },
+    {
+        "nombre_cancion": "Hello, I Love You",
+        "nombre_artista": "The Doors",
+        "inicio_primer_lugar": "1968-8-3",
+        "final_primer_lugar": "1968-8-16",
+        "videoUrl": "https://www.youtube.com/embed/exs6GO2bvjE"
+    },
+    {
+        "nombre_cancion": "People Got to Be Free",
+        "nombre_artista": "The Rascals",
+        "inicio_primer_lugar": "1968-8-17",
+        "final_primer_lugar": "1968-9-20",
+        "videoUrl": "https://www.youtube.com/embed/CYcz7gMnifk"
+    },
+    {
+        "nombre_cancion": "Harper Valley PTA",
+        "nombre_artista": "Jeannie C. Riley",
+        "inicio_primer_lugar": "1968-9-21",
+        "final_primer_lugar": "1968-9-27",
+        "videoUrl": "https://www.youtube.com/embed/9-LI11_Iyss"
+    },
+    {
+        "nombre_cancion": "Hey Jude",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1968-9-28",
+        "final_primer_lugar": "1968-11-29",
+        "videoUrl": "https://www.youtube.com/embed/mQER0A0ej0M"
+    },
+    {
+        "nombre_cancion": "Love Child",
+        "nombre_artista": "Diana Ross & the Supremes",
+        "inicio_primer_lugar": "1968-11-30",
+        "final_primer_lugar": "1968-12-13",
+        "videoUrl": "https://www.youtube.com/embed/MDZTzEf7Ces"
+    },
+    {
+        "nombre_cancion": "I Heard It Through the Grapevine",
+        "nombre_artista": "Marvin Gaye",
+        "inicio_primer_lugar": "1968-12-14",
+        "final_primer_lugar": "1969-1-31",
+        "videoUrl": "https://www.youtube.com/embed/Nr2YQJ7x9Aw"
+    }
+]

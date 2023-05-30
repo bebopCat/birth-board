@@ -1,0 +1,212 @@
+[
+    {
+        "nombre_cancion": "Me and Mrs. Jones",
+        "nombre_artista": "Billy Paul",
+        "inicio_primer_lugar": "1972-12-16",
+        "final_primer_lugar": "1973-1-5",
+        "videoUrl": "https://www.youtube.com/embed/ak0HE8D6qxw"
+    },
+    {
+        "nombre_cancion": "You're So Vain",
+        "nombre_artista": "Carly Simon",
+        "inicio_primer_lugar": "1973-1-6",
+        "final_primer_lugar": "1973-1-26",
+        "videoUrl": "https://www.youtube.com/embed/lT7I40wWYAQ"
+    },
+    {
+        "nombre_cancion": "Superstition",
+        "nombre_artista": "Stevie Wonder",
+        "inicio_primer_lugar": "1973-1-27",
+        "final_primer_lugar": "1973-2-2",
+        "videoUrl": "https://www.youtube.com/embed/ftdZ363R9kQ"
+    },
+    {
+        "nombre_cancion": "Crocodile Rock",
+        "nombre_artista": "Elton John",
+        "inicio_primer_lugar": "1973-2-3",
+        "final_primer_lugar": "1973-2-23",
+        "videoUrl": "https://www.youtube.com/embed/75r0nQu-hMs"
+    },
+    {
+        "nombre_cancion": "Killing Me Softly with His Song",
+        "nombre_artista": "Roberta Flack",
+        "inicio_primer_lugar": "1973-2-24",
+        "final_primer_lugar": "1973-3-23",
+        "videoUrl": "https://www.youtube.com/embed/DEbi_YjpA-Y"
+    },
+    {
+        "nombre_cancion": "Love Train",
+        "nombre_artista": "The O'Jays",
+        "inicio_primer_lugar": "1973-3-24",
+        "final_primer_lugar": "1973-3-30",
+        "videoUrl": "https://www.youtube.com/embed/GRbCPdO-1iE"
+    },
+    {
+        "nombre_cancion": "Killing Me Softly with His Song",
+        "nombre_artista": "Roberta Flack",
+        "inicio_primer_lugar": "1973-3-31",
+        "final_primer_lugar": "1973-4-6",
+        "videoUrl": "https://www.youtube.com/embed/DEbi_YjpA-Y"
+    },
+    {
+        "nombre_cancion": "The Night the Lights Went Out in Georgia",
+        "nombre_artista": "Vicki Lawrence",
+        "inicio_primer_lugar": "1973-4-7",
+        "final_primer_lugar": "1973-4-20",
+        "videoUrl": "https://www.youtube.com/embed/oEMpbwBeqEQ"
+    },
+    {
+        "nombre_cancion": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+        "nombre_artista": "Dawn featuring Tony Orlando",
+        "inicio_primer_lugar": "1973-4-21",
+        "final_primer_lugar": "1973-5-18",
+        "videoUrl": "https://www.youtube.com/embed/z_qpHWNAlyA"
+    },
+    {
+        "nombre_cancion": "You Are the Sunshine of My Life",
+        "nombre_artista": "Stevie Wonder",
+        "inicio_primer_lugar": "1973-5-19",
+        "final_primer_lugar": "1973-5-25",
+        "videoUrl": "https://www.youtube.com/embed/F8PGHi4TJQM"
+    },
+    {
+        "nombre_cancion": "Frankenstein",
+        "nombre_artista": "The Edgar Winter Group",
+        "inicio_primer_lugar": "1973-5-26",
+        "final_primer_lugar": "1973-6-1",
+        "videoUrl": "https://www.youtube.com/embed/ajWS1YGUfUI"
+    },
+    {
+        "nombre_cancion": "My Love",
+        "nombre_artista": "Paul McCartney & Wings",
+        "inicio_primer_lugar": "1973-6-2",
+        "final_primer_lugar": "1973-6-29",
+        "videoUrl": "https://www.youtube.com/embed/vJcI7ujfgJw"
+    },
+    {
+        "nombre_cancion": "Give Me Love (Give Me Peace on Earth)",
+        "nombre_artista": "George Harrison",
+        "inicio_primer_lugar": "1973-6-30",
+        "final_primer_lugar": "1973-7-6",
+        "videoUrl": "https://www.youtube.com/embed/WMof20FwaOs"
+    },
+    {
+        "nombre_cancion": "Will It Go Round in Circles",
+        "nombre_artista": "Billy Preston",
+        "inicio_primer_lugar": "1973-7-7",
+        "final_primer_lugar": "1973-7-20",
+        "videoUrl": "https://www.youtube.com/embed/FFHMdY9HijM"
+    },
+    {
+        "nombre_cancion": "Bad, Bad Leroy Brown",
+        "nombre_artista": "Jim Croce",
+        "inicio_primer_lugar": "1973-7-21",
+        "final_primer_lugar": "1973-8-3",
+        "videoUrl": "https://www.youtube.com/embed/JzYf6qskdfA"
+    },
+    {
+        "nombre_cancion": "The Morning After",
+        "nombre_artista": "Maureen McGovern",
+        "inicio_primer_lugar": "1973-8-4",
+        "final_primer_lugar": "1973-8-17",
+        "videoUrl": "https://www.youtube.com/embed/fgjZJwXUAMY"
+    },
+    {
+        "nombre_cancion": "Touch Me in the Morning",
+        "nombre_artista": "Diana Ross",
+        "inicio_primer_lugar": "1973-8-18",
+        "final_primer_lugar": "1973-8-24",
+        "videoUrl": "https://www.youtube.com/embed/ZM7lpnXNgDk"
+    },
+    {
+        "nombre_cancion": "Brother Louie",
+        "nombre_artista": "Stories",
+        "inicio_primer_lugar": "1973-8-25",
+        "final_primer_lugar": "1973-9-7",
+        "videoUrl": "https://www.youtube.com/embed/jidMaFbmaok"
+    },
+    {
+        "nombre_cancion": "Let's Get It On",
+        "nombre_artista": "Marvin Gaye",
+        "inicio_primer_lugar": "1973-9-8",
+        "final_primer_lugar": "1973-9-14",
+        "videoUrl": "https://www.youtube.com/embed/tQj1kPmQXwE"
+    },
+    {
+        "nombre_cancion": "Delta Dawn",
+        "nombre_artista": "Helen Reddy",
+        "inicio_primer_lugar": "1973-9-15",
+        "final_primer_lugar": "1973-9-21",
+        "videoUrl": "https://www.youtube.com/embed/n5SOZ_6sHFY"
+    },
+    {
+        "nombre_cancion": "Let's Get It On",
+        "nombre_artista": "Marvin Gaye",
+        "inicio_primer_lugar": "1973-9-22",
+        "final_primer_lugar": "1973-9-28",
+        "videoUrl": "https://www.youtube.com/embed/tQj1kPmQXwE"
+    },
+    {
+        "nombre_cancion": "We're an American Band",
+        "nombre_artista": "Grand Funk",
+        "inicio_primer_lugar": "1973-9-29",
+        "final_primer_lugar": "1973-10-5",
+        "videoUrl": "https://www.youtube.com/embed/QxNXFNCTr2I"
+    },
+    {
+        "nombre_cancion": "Half-Breed",
+        "nombre_artista": "Cher",
+        "inicio_primer_lugar": "1973-10-6",
+        "final_primer_lugar": "1973-10-19",
+        "videoUrl": "https://www.youtube.com/embed/ObYiRIibWdY"
+    },
+    {
+        "nombre_cancion": "Angie",
+        "nombre_artista": "The Rolling Stones",
+        "inicio_primer_lugar": "1973-10-20",
+        "final_primer_lugar": "1973-10-26",
+        "videoUrl": "https://www.youtube.com/embed/RcZn2-bGXqQ"
+    },
+    {
+        "nombre_cancion": "Midnight Train to Georgia",
+        "nombre_artista": "Gladys Knight & the Pips",
+        "inicio_primer_lugar": "1973-10-27",
+        "final_primer_lugar": "1973-11-9",
+        "videoUrl": "https://www.youtube.com/embed/A0F9lh8TiSM"
+    },
+    {
+        "nombre_cancion": "Keep on Truckin'",
+        "nombre_artista": "Eddie Kendricks",
+        "inicio_primer_lugar": "1973-11-10",
+        "final_primer_lugar": "1973-11-23",
+        "videoUrl": "https://www.youtube.com/embed/Eke-oF3Vh6s"
+    },
+    {
+        "nombre_cancion": "Photograph",
+        "nombre_artista": "Ringo Starr",
+        "inicio_primer_lugar": "1973-11-24",
+        "final_primer_lugar": "1973-11-30",
+        "videoUrl": "https://www.youtube.com/embed/nevdSt_2PIM"
+    },
+    {
+        "nombre_cancion": "Top of the World",
+        "nombre_artista": "The Carpenters",
+        "inicio_primer_lugar": "1973-12-1",
+        "final_primer_lugar": "1973-12-14",
+        "videoUrl": "https://www.youtube.com/embed/vupwAFMXLkA"
+    },
+    {
+        "nombre_cancion": "The Most Beautiful Girl",
+        "nombre_artista": "Charlie Rich",
+        "inicio_primer_lugar": "1973-12-15",
+        "final_primer_lugar": "1973-12-28",
+        "videoUrl": "https://www.youtube.com/embed/hAIZcLbkto0"
+    },
+    {
+        "nombre_cancion": "Time in a Bottle",
+        "nombre_artista": "Jim Croce",
+        "inicio_primer_lugar": "1973-12-29",
+        "final_primer_lugar": "1974-1-11",
+        "videoUrl": "https://www.youtube.com/embed/wNBiH-H5kTw"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "nombre_cancion": "Un-Break My Heart",
+        "nombre_artista": "Toni Braxton",
+        "inicio_primer_lugar": "1996-12-7",
+        "final_primer_lugar": "1997-2-21",
+        "videoUrl": "https://www.youtube.com/embed/GXEL8gS8Kg4"
+    },
+    {
+        "nombre_cancion": "Wannabe",
+        "nombre_artista": "Spice Girls",
+        "inicio_primer_lugar": "1997-2-22",
+        "final_primer_lugar": "1997-3-21",
+        "videoUrl": "https://www.youtube.com/embed/gJLIiF15wjQ"
+    },
+    {
+        "nombre_cancion": "Can't Nobody Hold Me Down",
+        "nombre_artista": "Puff Daddy featuring Mase",
+        "inicio_primer_lugar": "1997-3-22",
+        "final_primer_lugar": "1997-5-2",
+        "videoUrl": "https://www.youtube.com/embed/6rWhStXYND0"
+    },
+    {
+        "nombre_cancion": "Hypnotize",
+        "nombre_artista": "The Notorious B.I.G.",
+        "inicio_primer_lugar": "1997-5-3",
+        "final_primer_lugar": "1997-5-23",
+        "videoUrl": "https://www.youtube.com/embed/k1qpgQr8wXk"
+    },
+    {
+        "nombre_cancion": "MMMBop",
+        "nombre_artista": "Hanson",
+        "inicio_primer_lugar": "1997-5-24",
+        "final_primer_lugar": "1997-6-13",
+        "videoUrl": "https://www.youtube.com/embed/PcGSBij3Sd0"
+    },
+    {
+        "nombre_cancion": "I'll Be Missing You",
+        "nombre_artista": "Puff Daddy and Faith Evans Ft. 112",
+        "inicio_primer_lugar": "1997-6-14",
+        "final_primer_lugar": "1997-8-29",
+        "videoUrl": "https://www.youtube.com/embed/1S5xRPZBMy0"
+    },
+    {
+        "nombre_cancion": "Mo Money Mo Problems",
+        "nombre_artista": "The Notorious B.I.G. Ft. Puff Daddy and Mase",
+        "inicio_primer_lugar": "1997-8-30",
+        "final_primer_lugar": "1997-9-12",
+        "videoUrl": "https://www.youtube.com/embed/ss142Aix2Bo"
+    },
+    {
+        "nombre_cancion": "Honey",
+        "nombre_artista": "Mariah Carey",
+        "inicio_primer_lugar": "1997-9-13",
+        "final_primer_lugar": "1997-10-3",
+        "videoUrl": "https://www.youtube.com/embed/753_mUwbOJ4"
+    },
+    {
+        "nombre_cancion": "4 Seasons of Loneliness",
+        "nombre_artista": "Boyz II Men",
+        "inicio_primer_lugar": "1997-10-4",
+        "final_primer_lugar": "1997-10-10",
+        "videoUrl": "https://www.youtube.com/embed/94_TVWIzXy4"
+    },
+    {
+        "nombre_cancion": "Candle in the Wind 1997 / Something About the Way You Look Tonight",
+        "nombre_artista": "Elton John",
+        "inicio_primer_lugar": "1997-10-11",
+        "final_primer_lugar": "1998-1-16",
+        "videoUrl": "https://www.youtube.com/embed/sxb0GeS4gL8"
+    }
+]

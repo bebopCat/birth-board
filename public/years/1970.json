@@ -1,0 +1,156 @@
+[
+    {
+        "nombre_cancion": "Someday We'll Be Together",
+        "nombre_artista": "Diana Ross & the Supremes",
+        "inicio_primer_lugar": "1969-12-27",
+        "final_primer_lugar": "1970-1-2",
+        "videoUrl": "https://www.youtube.com/embed/SEczRP79kt8"
+    },
+    {
+        "nombre_cancion": "Raindrops Keep Fallin' on My Head",
+        "nombre_artista": "B. J. Thomas",
+        "inicio_primer_lugar": "1970-1-3",
+        "final_primer_lugar": "1970-1-30",
+        "videoUrl": "https://www.youtube.com/embed/sySlY1XKlhM"
+    },
+    {
+        "nombre_cancion": "I Want You Back",
+        "nombre_artista": "The Jackson 5",
+        "inicio_primer_lugar": "1970-1-31",
+        "final_primer_lugar": "1970-2-6",
+        "videoUrl": "https://www.youtube.com/embed/OFw5xkD3bjE"
+    },
+    {
+        "nombre_cancion": "Venus",
+        "nombre_artista": "Shocking Blue",
+        "inicio_primer_lugar": "1970-2-7",
+        "final_primer_lugar": "1970-2-13",
+        "videoUrl": "https://www.youtube.com/embed/8LhkyyCvUHk"
+    },
+    {
+        "nombre_cancion": "Thank You (Falettinme Be Mice Elf Agin) / Everybody Is a Star",
+        "nombre_artista": "Sly & the Family Stone",
+        "inicio_primer_lugar": "1970-2-14",
+        "final_primer_lugar": "1970-2-27",
+        "videoUrl": "https://www.youtube.com/embed/Jc4AmVAoKss"
+    },
+    {
+        "nombre_cancion": "Bridge over Troubled Water",
+        "nombre_artista": "Simon & Garfunkel",
+        "inicio_primer_lugar": "1970-2-28",
+        "final_primer_lugar": "1970-4-10",
+        "videoUrl": "https://www.youtube.com/embed/4G-YQA_bsOU"
+    },
+    {
+        "nombre_cancion": "Let It Be",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1970-4-11",
+        "final_primer_lugar": "1970-4-24",
+        "videoUrl": "https://www.youtube.com/embed/HzvDofigTKQ"
+    },
+    {
+        "nombre_cancion": "ABC",
+        "nombre_artista": "The Jackson 5",
+        "inicio_primer_lugar": "1970-4-25",
+        "final_primer_lugar": "1970-5-8",
+        "videoUrl": "https://www.youtube.com/embed/niXNQ5dEcEA"
+    },
+    {
+        "nombre_cancion": "American Woman / No Sugar Tonight",
+        "nombre_artista": "The Guess Who",
+        "inicio_primer_lugar": "1970-5-9",
+        "final_primer_lugar": "1970-5-29",
+        "videoUrl": "https://www.youtube.com/embed/9uf6EY2BZBw"
+    },
+    {
+        "nombre_cancion": "Everything Is Beautiful",
+        "nombre_artista": "Ray Stevens",
+        "inicio_primer_lugar": "1970-5-30",
+        "final_primer_lugar": "1970-6-12",
+        "videoUrl": "https://www.youtube.com/embed/0gF3yzOAI9A"
+    },
+    {
+        "nombre_cancion": "c / For You Blue",
+        "nombre_artista": "The Beatles",
+        "inicio_primer_lugar": "1970-6-13",
+        "final_primer_lugar": "1970-6-26",
+        "videoUrl": "https://www.youtube.com/embed/TIFHRaZERHg"
+    },
+    {
+        "nombre_cancion": "The Love You Save",
+        "nombre_artista": "The Jackson 5",
+        "inicio_primer_lugar": "1970-6-27",
+        "final_primer_lugar": "1970-7-10",
+        "videoUrl": "https://www.youtube.com/embed/BIZWIJwHiaU"
+    },
+    {
+        "nombre_cancion": "Mama Told Me (Not to Come)",
+        "nombre_artista": "Three Dog Night",
+        "inicio_primer_lugar": "1970-7-11",
+        "final_primer_lugar": "1970-7-24",
+        "videoUrl": "https://www.youtube.com/embed/wZmcGlmQk9E"
+    },
+    {
+        "nombre_cancion": "(They Long to Be) Close to You",
+        "nombre_artista": "The Carpenters",
+        "inicio_primer_lugar": "1970-7-25",
+        "final_primer_lugar": "1970-8-21",
+        "videoUrl": "https://www.youtube.com/embed/M268Csnue9I"
+    },
+    {
+        "nombre_cancion": "Make It with You",
+        "nombre_artista": "Bread",
+        "inicio_primer_lugar": "1970-8-22",
+        "final_primer_lugar": "1970-8-28",
+        "videoUrl": "https://www.youtube.com/embed/YWXieqqs4iU"
+    },
+    {
+        "nombre_cancion": "War",
+        "nombre_artista": "Edwin Starr",
+        "inicio_primer_lugar": "1970-8-29",
+        "final_primer_lugar": "1970-9-18",
+        "videoUrl": "https://www.youtube.com/embed/dQHUAJTZqF0"
+    },
+    {
+        "nombre_cancion": "Ain't No Mountain High Enough",
+        "nombre_artista": "Diana Ross",
+        "inicio_primer_lugar": "1970-9-19",
+        "final_primer_lugar": "1970-10-9",
+        "videoUrl": "https://www.youtube.com/embed/-pJzhwY5QlM"
+    },
+    {
+        "nombre_cancion": "Cracklin' Rosie",
+        "nombre_artista": "Neil Diamond",
+        "inicio_primer_lugar": "1970-10-10",
+        "final_primer_lugar": "1970-10-16",
+        "videoUrl": "https://www.youtube.com/embed/KBpk3RIQ8is"
+    },
+    {
+        "nombre_cancion": "I'll Be There",
+        "nombre_artista": "The Jackson 5",
+        "inicio_primer_lugar": "1970-10-17",
+        "final_primer_lugar": "1970.11-20",
+        "videoUrl": "https://www.youtube.com/embed/W-apaIOOoAo"
+    },
+    {
+        "nombre_cancion": "I Think I Love You",
+        "nombre_artista": "The Partridge Family",
+        "inicio_primer_lugar": "1970-11-21",
+        "final_primer_lugar": "1970-12-11",
+        "videoUrl": "https://www.youtube.com/embed/x9zNa8orbF0"
+    },
+    {
+        "nombre_cancion": "The Tears of a Clown",
+        "nombre_artista": "Smokey Robinson & the Miracles",
+        "inicio_primer_lugar": "1970-12-12",
+        "final_primer_lugar": "1970-12-25",
+        "videoUrl": "https://www.youtube.com/embed/5ZcW6URD670"
+    },
+    {
+        "nombre_cancion": "My Sweet Lord / Isn't It a Pity",
+        "nombre_artista": "George Harrison",
+        "inicio_primer_lugar": "1970-12-26",
+        "final_primer_lugar": "1971-1-22",
+        "videoUrl": "https://www.youtube.com/embed/jiFDiW312v0"
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "nombre_cancion": "Faith",
+        "nombre_artista": "George Michael",
+        "inicio_primer_lugar": "1987-12-12",
+        "final_primer_lugar": "1988-1-8",
+        "videoUrl": "https://www.youtube.com/embed/N61LHFFfiik"
+    },
+    {
+        "nombre_cancion": "So Emotional",
+        "nombre_artista": "Whitney Houston",
+        "inicio_primer_lugar": "1988-1-9",
+        "final_primer_lugar": "1988-1-15",
+        "videoUrl": "https://www.youtube.com/embed/oGDxeiFsriE"
+    },
+    {
+        "nombre_cancion": "Got My Mind Set on You",
+        "nombre_artista": "George Harrison",
+        "inicio_primer_lugar": "1988-1-16",
+        "final_primer_lugar": "1988-1-22",
+        "videoUrl": "https://www.youtube.com/embed/sd-S1cBBez0"
+    },
+    {
+        "nombre_cancion": "The Way You Make Me Feel",
+        "nombre_artista": "Michael Jackson",
+        "inicio_primer_lugar": "1988-1-23",
+        "final_primer_lugar": "1988-1-29",
+        "videoUrl": "https://www.youtube.com/embed/uzbnrfd9vLQ"
+    },
+    {
+        "nombre_cancion": "Need You Tonight",
+        "nombre_artista": "INXS",
+        "inicio_primer_lugar": "1988-1-30",
+        "final_primer_lugar": "1988-2-5",
+        "videoUrl": "https://www.youtube.com/embed/6Rem66cRf4U"
+    },
+    {
+        "nombre_cancion": "Could've Been",
+        "nombre_artista": "Tiffany",
+        "inicio_primer_lugar": "1988-2-6",
+        "final_primer_lugar": "1988-2-19",
+        "videoUrl": "https://www.youtube.com/embed/73d8CyJ1aLo"
+    },
+    {
+        "nombre_cancion": "Seasons Change",
+        "nombre_artista": "Exposé",
+        "inicio_primer_lugar": "1988-2-20",
+        "final_primer_lugar": "1988-2-26",
+        "videoUrl": "https://www.youtube.com/embed/oSG3YCeYBIM"
+    },
+    {
+        "nombre_cancion": "Father Figure",
+        "nombre_artista": "George Michael",
+        "inicio_primer_lugar": "1988-2-27",
+        "final_primer_lugar": "1988-3-11",
+        "videoUrl": "https://www.youtube.com/embed/cT6y24Ddn0w"
+    },
+    {
+        "nombre_cancion": "Never Gonna Give You Up",
+        "nombre_artista": "Rick Astley",
+        "inicio_primer_lugar": "1988-3-12",
+        "final_primer_lugar": "1988-3-25",
+        "videoUrl": "https://www.youtube.com/embed/3BFTio5296w"
+    },
+    {
+        "nombre_cancion": "Man in the Mirror",
+        "nombre_artista": "Michael Jackson",
+        "inicio_primer_lugar": "1988-3-26",
+        "final_primer_lugar": "1988-4-8",
+        "videoUrl": "https://www.youtube.com/embed/FLYbtDgNzoE"
+    },
+    {
+        "nombre_cancion": "Get Outta My Dreams, Get into My Car",
+        "nombre_artista": "Billy Ocean",
+        "inicio_primer_lugar": "1988-4-9",
+        "final_primer_lugar": "1988-4-22",
+        "videoUrl": "https://www.youtube.com/embed/QfxxvEcZOqk"
+    },
+    {
+        "nombre_cancion": "Where Do Broken Hearts Go",
+        "nombre_artista": "Whitney Houston",
+        "inicio_primer_lugar": "1988-4-23",
+        "final_primer_lugar": "1988-5-6",
+        "videoUrl": "https://www.youtube.com/embed/BCibJQbNxyg"
+    },
+    {
+        "nombre_cancion": "Wishing Well",
+        "nombre_artista": "Terence Trent D'Arby",
+        "inicio_primer_lugar": "1988-5-7",
+        "final_primer_lugar": "1988-5-13",
+        "videoUrl": "https://www.youtube.com/embed/n2Nd_lS9Kcs"
+    },
+    {
+        "nombre_cancion": "Anything for You",
+        "nombre_artista": "Gloria Estefan and Miami Sound Machine",
+        "inicio_primer_lugar": "1988-5-14",
+        "final_primer_lugar": "1988-5-27",
+        "videoUrl": "https://www.youtube.com/embed/aCapy-fHMu4"
+    },
+    {
+        "nombre_cancion": "One More Try",
+        "nombre_artista": "George Michael",
+        "inicio_primer_lugar": "1988-5-28",
+        "final_primer_lugar": "1988-6-17",
+        "videoUrl": "https://www.youtube.com/embed/WaMbYTPFgrM"
+    },
+    {
+        "nombre_cancion": "Together Forever",
+        "nombre_artista": "Rick Astley",
+        "inicio_primer_lugar": "1988-6-18",
+        "final_primer_lugar": "1988-6-24",
+        "videoUrl": "https://www.youtube.com/embed/O81lzff27os"
+    },
+    {
+        "nombre_cancion": "Foolish Beat",
+        "nombre_artista": "Debbie Gibson",
+        "inicio_primer_lugar": "1988-6-25",
+        "final_primer_lugar": "1988-7-1",
+        "videoUrl": "https://www.youtube.com/embed/y8vEeFHdknY"
+    },
+    {
+        "nombre_cancion": "Dirty Diana",
+        "nombre_artista": "Michael Jackson",
+        "inicio_primer_lugar": "1988-7-2",
+        "final_primer_lugar": "1988-7-8",
+        "videoUrl": "https://www.youtube.com/embed/7sNF4EQEbo4"
+    },
+    {
+        "nombre_cancion": "The Flame",
+        "nombre_artista": "Cheap Trick",
+        "inicio_primer_lugar": "1988-7-9",
+        "final_primer_lugar": "1988-7-22",
+        "videoUrl": "https://www.youtube.com/embed/QL35biYTuQI"
+    },
+    {
+        "nombre_cancion": "Hold On to the Nights",
+        "nombre_artista": "Richard Marx",
+        "inicio_primer_lugar": "1988-7-23",
+        "final_primer_lugar": "1988-7-29",
+        "videoUrl": "https://www.youtube.com/embed/0C2R7td6IHY"
+    },
+    {
+        "nombre_cancion": "Roll With It",
+        "nombre_artista": "Steve Winwood",
+        "inicio_primer_lugar": "1988-7-30",
+        "final_primer_lugar": "1988-8-26",
+        "videoUrl": "https://www.youtube.com/embed/MoGHGaN_HQs"
+    },
+    {
+        "nombre_cancion": "Monkey",
+        "nombre_artista": "George Michael",
+        "inicio_primer_lugar": "1988-8-27",
+        "final_primer_lugar": "1988-9-9",
+        "videoUrl": "https://www.youtube.com/embed/2qtg4L2TsL4"
+    },
+    {
+        "nombre_cancion": "Sweet Child o' Mine",
+        "nombre_artista": "Guns N' Roses",
+        "inicio_primer_lugar": "1988-9-10",
+        "final_primer_lugar": "1988-9-23",
+        "videoUrl": "https://www.youtube.com/embed/TD0OWOE_O5I"
+    },
+    {
+        "nombre_cancion": "Don't Worry, Be Happy",
+        "nombre_artista": "Bobby McFerrin",
+        "inicio_primer_lugar": "1988-9-24",
+        "final_primer_lugar": "1988-10-7",
+        "videoUrl": "https://www.youtube.com/embed/UpdWOEfAOsI"
+    },
+    {
+        "nombre_cancion": "Love Bites",
+        "nombre_artista": "Def Leppard",
+        "inicio_primer_lugar": "1988-10-8",
+        "final_primer_lugar": "1988-10-14",
+        "videoUrl": "https://www.youtube.com/embed/im70eF8x14U"
+    },
+    {
+        "nombre_cancion": "Red Red Wine",
+        "nombre_artista": "UB40",
+        "inicio_primer_lugar": "1988-10-15",
+        "final_primer_lugar": "1988-10-21",
+        "videoUrl": "https://www.youtube.com/embed/UidFA-dP8GQ"
+    },
+    {
+        "nombre_cancion": "A Groovy Kind of Love",
+        "nombre_artista": "Phil Collins",
+        "inicio_primer_lugar": "1988-10-22",
+        "final_primer_lugar": "1988-11-4",
+        "videoUrl": "https://www.youtube.com/embed/bFhDJkntbIE"
+    },
+    {
+        "nombre_cancion": "Kokomo",
+        "nombre_artista": "The Beach Boys",
+        "inicio_primer_lugar": "1988-11-5",
+        "final_primer_lugar": "1988-11-11",
+        "videoUrl": "https://www.youtube.com/embed/qH8SBxxvmd0"
+    },
+    {
+        "nombre_cancion": "Wild, Wild West",
+        "nombre_artista": "The Escape Club",
+        "inicio_primer_lugar": "1988-11-12",
+        "final_primer_lugar": "1988-11-18",
+        "videoUrl": "https://www.youtube.com/embed/ox3I-43j0wY"
+    },
+    {
+        "nombre_cancion": "Bad Medicine",
+        "nombre_artista": "Bon Jovi",
+        "inicio_primer_lugar": "1988-11-19",
+        "final_primer_lugar": "1988-12-2",
+        "videoUrl": "https://www.youtube.com/embed/j6PN1ZizB28"
+    },
+    {
+        "nombre_cancion": "Baby, I Love Your Way/Freebird Medley",
+        "nombre_artista": "Will to Power",
+        "inicio_primer_lugar": "1988-12-3",
+        "final_primer_lugar": "1988-12-9",
+        "videoUrl": "https://www.youtube.com/embed/YIdrE4kfuoY"
+    },
+    {
+        "nombre_cancion": "Look Away",
+        "nombre_artista": "Chicago",
+        "inicio_primer_lugar": "1988-12-10",
+        "final_primer_lugar": "1988-12-23",
+        "videoUrl": "https://www.youtube.com/embed/frCKKb7ctHU"
+    },
+    {
+        "nombre_cancion": "Every Rose Has Its Thorn",
+        "nombre_artista": "Poison",
+        "inicio_primer_lugar": "1988-12-24",
+        "final_primer_lugar": "1989-1-13",
+        "videoUrl": "https://www.youtube.com/embed/56P25fskMes"
+    }
+]

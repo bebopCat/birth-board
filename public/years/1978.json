@@ -1,0 +1,156 @@
+[
+    {
+        "nombre_cancion": "How Deep Is Your Love",
+        "nombre_artista": "Bee Gees",
+        "inicio_primer_lugar": "1977-12-24",
+        "final_primer_lugar": "1978-1-13",
+        "videoUrl": "https://www.youtube.com/embed/iNMW59_AWBQ"
+    },
+    {
+        "nombre_cancion": "Baby Come Back",
+        "nombre_artista": "Player",
+        "inicio_primer_lugar": "1978-1-14",
+        "final_primer_lugar": "1978-2-3",
+        "videoUrl": "https://www.youtube.com/embed/hiHJRBzZ23o"
+    },
+    {
+        "nombre_cancion": "Stayin' Alive",
+        "nombre_artista": "Bee Gees",
+        "inicio_primer_lugar": "1978-2-4",
+        "final_primer_lugar": "1978-3-3",
+        "videoUrl": "https://www.youtube.com/embed/bVVwmRbBZ-I"
+    },
+    {
+        "nombre_cancion": "(Love Is) Thicker Than Water",
+        "nombre_artista": "Andy Gibb",
+        "inicio_primer_lugar": "1978-3-4",
+        "final_primer_lugar": "1978-3-17",
+        "videoUrl": "https://www.youtube.com/embed/rIzsw6u-V2E"
+    },
+    {
+        "nombre_cancion": "Night Fever",
+        "nombre_artista": "Bee Gees",
+        "inicio_primer_lugar": "1978-3-18",
+        "final_primer_lugar": "1978-5-12",
+        "videoUrl": "https://www.youtube.com/embed/c8xnjaerP78"
+    },
+    {
+        "nombre_cancion": "If I Can't Have You",
+        "nombre_artista": "Yvonne Elliman",
+        "inicio_primer_lugar": "1978-5-13",
+        "final_primer_lugar": "1978-5-19",
+        "videoUrl": "https://www.youtube.com/embed/FI9PN90qPTg"
+    },
+    {
+        "nombre_cancion": "With a Little Luck",
+        "nombre_artista": "Wings",
+        "inicio_primer_lugar": "1978-5-20",
+        "final_primer_lugar": "1978-6-2",
+        "videoUrl": "https://www.youtube.com/embed/Yzr_lr3bMuY"
+    },
+    {
+        "nombre_cancion": "Too Much, Too Little, Too Late",
+        "nombre_artista": "Johnny Mathis and Deniece Williams",
+        "inicio_primer_lugar": "1978-6-3",
+        "final_primer_lugar": "1978-6-9",
+        "videoUrl": "https://www.youtube.com/embed/ozYqpbqzD_I"
+    },
+    {
+        "nombre_cancion": "You're the One That I Want",
+        "nombre_artista": "John Travolta and Olivia Newton-John",
+        "inicio_primer_lugar": "1978-6-10",
+        "final_primer_lugar": "1978-6-16",
+        "videoUrl": "https://www.youtube.com/embed/e__Pp4FxsjU"
+    },
+    {
+        "nombre_cancion": "Shadow Dancing",
+        "nombre_artista": "Andy Gibb",
+        "inicio_primer_lugar": "1978-6-17",
+        "final_primer_lugar": "1978-8-4",
+        "videoUrl": "https://www.youtube.com/embed/M57jGOlLXe8"
+    },
+    {
+        "nombre_cancion": "Miss You",
+        "nombre_artista": "The Rolling Stones",
+        "inicio_primer_lugar": "1978-8-5",
+        "final_primer_lugar": "1978-8-11",
+        "videoUrl": "https://www.youtube.com/embed/hPrklRwn1HE"
+    },
+    {
+        "nombre_cancion": "Three Times a Lady",
+        "nombre_artista": "Commodores",
+        "inicio_primer_lugar": "1978-8-12",
+        "final_primer_lugar": "1978-8-25",
+        "videoUrl": "https://www.youtube.com/embed/QFjvyeazAZs"
+    },
+    {
+        "nombre_cancion": "Grease",
+        "nombre_artista": "Frankie Valli",
+        "inicio_primer_lugar": "1978-8-26",
+        "final_primer_lugar": "1978-9-8",
+        "videoUrl": "https://www.youtube.com/embed/ZC7v2gFsCz0"
+    },
+    {
+        "nombre_cancion": "Boogie Oogie Oogie",
+        "nombre_artista": "A Taste of Honey",
+        "inicio_primer_lugar": "1978-9-9",
+        "final_primer_lugar": "1978-9-29",
+        "videoUrl": "https://www.youtube.com/embed/c3e0cuDoX_0"
+    },
+    {
+        "nombre_cancion": "Kiss You All Over",
+        "nombre_artista": "Exile",
+        "inicio_primer_lugar": "1978-9-30",
+        "final_primer_lugar": "1978-10-27",
+        "videoUrl": "https://www.youtube.com/embed/Xn5lASZyhls"
+    },
+    {
+        "nombre_cancion": "Hot Child in the City",
+        "nombre_artista": "Nick Gilder",
+        "inicio_primer_lugar": "1978-10-28",
+        "final_primer_lugar": "1978-11-3",
+        "videoUrl": "https://www.youtube.com/embed/hrPesaX1o3c"
+    },
+    {
+        "nombre_cancion": "You Needed Me",
+        "nombre_artista": "Anne Murray",
+        "inicio_primer_lugar": "1978-11-4",
+        "final_primer_lugar": "1978-11-10",
+        "videoUrl": "https://www.youtube.com/embed/TWggNDJ9f8I"
+    },
+    {
+        "nombre_cancion": "MacArthur Park",
+        "nombre_artista": "Donna Summer",
+        "inicio_primer_lugar": "1978-11-11",
+        "final_primer_lugar": "1978-12-1",
+        "videoUrl": "https://www.youtube.com/embed/2NwVWD_gwiU"
+    },
+    {
+        "nombre_cancion": "You Don't Bring Me Flowers",
+        "nombre_artista": "Barbra Streisand and Neil Diamond",
+        "inicio_primer_lugar": "1978-12-2",
+        "final_primer_lugar": "1978-12-8",
+        "videoUrl": "https://www.youtube.com/embed/BMYzlfT-4wQ"
+    },
+    {
+        "nombre_cancion": "Le Freak",
+        "nombre_artista": "Chic",
+        "inicio_primer_lugar": "1978-12-9",
+        "final_primer_lugar": "1978-12-15",
+        "videoUrl": "https://www.youtube.com/embed/E-TZtrJjW54"
+    },
+    {
+        "nombre_cancion": "You Don't Bring Me Flowers",
+        "nombre_artista": "Barbra Streisand and Neil Diamond",
+        "inicio_primer_lugar": "1978-12-16",
+        "final_primer_lugar": "1978-12-22",
+        "videoUrl": "https://www.youtube.com/embed/BMYzlfT-4wQ"
+    },
+    {
+        "nombre_cancion": "Le Freak",
+        "nombre_artista": "Chic",
+        "inicio_primer_lugar": "1978-12-23",
+        "final_primer_lugar": "1979-1-5",
+        "videoUrl": "https://www.youtube.com/embed/E-TZtrJjW54"
+    }
+]

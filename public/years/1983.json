@@ -1,0 +1,128 @@
+[
+    {
+        "nombre_cancion": "Maneater",
+        "nombre_artista": "Daryl Hall and John Oates",
+        "inicio_primer_lugar": "1982-12-18",
+        "final_primer_lugar": "1983-1-14",
+        "videoUrl": "https://www.youtube.com/embed/oqy2N1jM2tU"
+    },
+    {
+        "nombre_cancion": "Down Under",
+        "nombre_artista": "Men at Work",
+        "inicio_primer_lugar": "1983-1-15",
+        "final_primer_lugar": "1983-2-4",
+        "videoUrl": "https://www.youtube.com/embed/dbqfdC8xCRg"
+    },
+    {
+        "nombre_cancion": "Africa",
+        "nombre_artista": "Toto",
+        "inicio_primer_lugar": "1983-2-5",
+        "final_primer_lugar": "1983-2-11",
+        "videoUrl": "https://www.youtube.com/embed/lfN46lHSGkY"
+    },
+    {
+        "nombre_cancion": "Down Under",
+        "nombre_artista": "Men at Work",
+        "inicio_primer_lugar": "1983-2-12",
+        "final_primer_lugar": "1983-2-18",
+        "videoUrl": "https://www.youtube.com/embed/dbqfdC8xCRg"
+    },
+    {
+        "nombre_cancion": "Baby, Come to Me",
+        "nombre_artista": "Patti Austin and James Ingram",
+        "inicio_primer_lugar": "1983-2-19",
+        "final_primer_lugar": "1983-3-4",
+        "videoUrl": "https://www.youtube.com/embed/TYqdvNni7Kk"
+    },
+    {
+        "nombre_cancion": "Billie Jean",
+        "nombre_artista": "Michael Jackson",
+        "inicio_primer_lugar": "1983-3-5",
+        "final_primer_lugar": "1983-4-22",
+        "videoUrl": "https://www.youtube.com/embed/OZGtRvYF-A4"
+    },
+    {
+        "nombre_cancion": "Come On Eileen",
+        "nombre_artista": "Dexys Midnight Runners",
+        "inicio_primer_lugar": "1983-4-23",
+        "final_primer_lugar": "1983-4-29",
+        "videoUrl": "https://www.youtube.com/embed/HwVnX4ZgliY"
+    },
+    {
+        "nombre_cancion": "Beat It",
+        "nombre_artista": "Michael Jackson",
+        "inicio_primer_lugar": "1983-4-30",
+        "final_primer_lugar": "1983-5-20",
+        "videoUrl": "https://www.youtube.com/embed/ftCalx6_pYA"
+    },
+    {
+        "nombre_cancion": "Let's Dance",
+        "nombre_artista": "David Bowie",
+        "inicio_primer_lugar": "1983-5-21",
+        "final_primer_lugar": "1983-5-27",
+        "videoUrl": "https://www.youtube.com/embed/ZoC9_udLNeU"
+    },
+    {
+        "nombre_cancion": "Flashdance... What a Feeling",
+        "nombre_artista": "Irene Cara",
+        "inicio_primer_lugar": "1983-5-28",
+        "final_primer_lugar": "1983-7-8",
+        "videoUrl": "https://www.youtube.com/embed/_Z16dPeMEQo"
+    },
+    {
+        "nombre_cancion": "Every Breath You Take",
+        "nombre_artista": "The Police",
+        "inicio_primer_lugar": "1983-7-9",
+        "final_primer_lugar": "1983-9-2",
+        "videoUrl": "https://www.youtube.com/embed/6cucosmPj-A"
+    },
+    {
+        "nombre_cancion": "Sweet Dreams (Are Made of This)",
+        "nombre_artista": "Eurythmics",
+        "inicio_primer_lugar": "1983-9-3",
+        "final_primer_lugar": "1983-9-9",
+        "videoUrl": "https://www.youtube.com/embed/eRhg7qPLeN8"
+    },
+    {
+        "nombre_cancion": "Maniac",
+        "nombre_artista": "Michael Sembello",
+        "inicio_primer_lugar": "1983-9-10",
+        "final_primer_lugar": "1983-9-23",
+        "videoUrl": "https://www.youtube.com/embed/6GCNUeTFSbA"
+    },
+    {
+        "nombre_cancion": "Tell Her About It",
+        "nombre_artista": "Billy Joel",
+        "inicio_primer_lugar": "1983-9-24",
+        "final_primer_lugar": "1983-9-30",
+        "videoUrl": "https://www.youtube.com/embed/In0_aREer7o"
+    },
+    {
+        "nombre_cancion": "Total Eclipse of the Heart",
+        "nombre_artista": "Bonnie Tyler",
+        "inicio_primer_lugar": "1983-10-1",
+        "final_primer_lugar": "1983-10-28",
+        "videoUrl": "https://www.youtube.com/embed/LSYGIljR6sQ"
+    },
+    {
+        "nombre_cancion": "Islands in the Stream",
+        "nombre_artista": "Kenny Rogers and Dolly Parton",
+        "inicio_primer_lugar": "1983-10-29",
+        "final_primer_lugar": "1983-11-11",
+        "videoUrl": "https://www.youtube.com/embed/UaNGtgYwSsU"
+    },
+    {
+        "nombre_cancion": "All Night Long (All Night)",
+        "nombre_artista": "Lionel Richie",
+        "inicio_primer_lugar": "1983-11-12",
+        "final_primer_lugar": "1983-12-9",
+        "videoUrl": "https://www.youtube.com/embed/5sBGUyUnqwM"
+    },
+    {
+        "nombre_cancion": "Say Say Say",
+        "nombre_artista": "Paul McCartney and Michael Jackson",
+        "inicio_primer_lugar": "1983-12-10",
+        "final_primer_lugar": "1984-1-20",
+        "videoUrl": "https://www.youtube.com/embed/hu7hmBJLpkk"
+    }
+]

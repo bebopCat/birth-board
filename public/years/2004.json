@@ -1,0 +1,93 @@
+[
+    {
+        "nombre_cancion": "Hey Ya!",
+        "nombre_artista": "OutKast",
+        "inicio_primer_lugar": "2003-12-13",
+        "final_primer_lugar": "2004-2-13",
+        "videoUrl": "https://www.youtube.com/embed/JzqYDWBkX_Q"
+    },
+    {
+        "nombre_cancion": "The Way You Move",
+        "nombre_artista": "OutKast Ft. Sleepy Brown",
+        "inicio_primer_lugar": "2004-2-14",
+        "final_primer_lugar": "2004-2-20",
+        "videoUrl": "https://www.youtube.com/embed/GPgIWIbaifo"
+    },
+    {
+        "nombre_cancion": "Slow Jamz",
+        "nombre_artista": "Twista Ft. Kanye West and Jamie Foxx",
+        "inicio_primer_lugar": "2004-2-21",
+        "final_primer_lugar": "2004-2-27",
+        "videoUrl": "https://www.youtube.com/embed/WUQqq4vOOPI"
+    },
+    {
+        "nombre_cancion": "Yeah!",
+        "nombre_artista": "Usher Ft. Lil Jon and Ludacris",
+        "inicio_primer_lugar": "2004-2-28",
+        "final_primer_lugar": "2004-5-21",
+        "videoUrl": "https://www.youtube.com/embed/b0Ow9PBxZCA"
+    },
+    {
+        "nombre_cancion": "Burn",
+        "nombre_artista": "Usher",
+        "inicio_primer_lugar": "2004-5-22",
+        "final_primer_lugar": "2004-7-9",
+        "videoUrl": "https://www.youtube.com/embed/qiIsiqeMgXI"
+    },
+    {
+        "nombre_cancion": "I Believe",
+        "nombre_artista": "Fantasia",
+        "inicio_primer_lugar": "2004-7-10",
+        "final_primer_lugar": "2004-7-16",
+        "videoUrl": "https://www.youtube.com/embed/KcdURLaRa-I"
+    },
+    {
+        "nombre_cancion": "Burn",
+        "nombre_artista": "Usher",
+        "inicio_primer_lugar": "2004-7-17",
+        "final_primer_lugar": "2004-7-23",
+        "videoUrl": "https://www.youtube.com/embed/qiIsiqeMgXI"
+    },
+    {
+        "nombre_cancion": "Confessions Part II",
+        "nombre_artista": "Usher",
+        "inicio_primer_lugar": "2004-7-24",
+        "final_primer_lugar": "2004-8-6",
+        "videoUrl": "https://www.youtube.com/embed/JmaPDPnKnQo"
+    },
+    {
+        "nombre_cancion": "Slow Motion",
+        "nombre_artista": "Juvenile Ft. Soulja Slim",
+        "inicio_primer_lugar": "2004-8-7",
+        "final_primer_lugar": "2004-8-20",
+        "videoUrl": "https://www.youtube.com/embed/bFnnkP-t3TA"
+    },
+    {
+        "nombre_cancion": "Lean Back",
+        "nombre_artista": "Terror Squad",
+        "inicio_primer_lugar": "2004-8-21",
+        "final_primer_lugar": "2004-9-10",
+        "videoUrl": "https://www.youtube.com/embed/WMGUjO2QF6M"
+    },
+    {
+        "nombre_cancion": "Goodies",
+        "nombre_artista": "Ciara Ft. Petey Pablo",
+        "inicio_primer_lugar": "2004-9-11",
+        "final_primer_lugar": "2004-10-29",
+        "videoUrl": "https://www.youtube.com/embed/WCMQlcRi34Y"
+    },
+    {
+        "nombre_cancion": "My Boo",
+        "nombre_artista": "Usher and Alicia Keys",
+        "inicio_primer_lugar": "2004-10-30",
+        "final_primer_lugar": "2004-12-10",
+        "videoUrl": "https://www.youtube.com/embed/M_mYf8s3Azw"
+    },
+    {
+        "nombre_cancion": "Drop It Like It's Hot",
+        "nombre_artista": "Snoop Dogg Ft. Pharrell",
+        "inicio_primer_lugar": "2004-12-11",
+        "final_primer_lugar": "2004-12-31",
+        "videoUrl": "https://www.youtube.com/embed/T6bjORaYktk"
+    }
+]

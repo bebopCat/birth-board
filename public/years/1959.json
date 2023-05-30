@@ -1,0 +1,121 @@
+[
+    {
+        "nombre_cancion": "The Chipmunk Song (Christmas Don't Be Late)",
+        "nombre_artista": "The Chipmunks con David Seville",
+        "inicio_primer_lugar": "1958-12-22",
+        "final_primer_lugar": "1959-1-18",
+        "videoUrl": "https://www.youtube.com/embed/N6zDY0DK2H8"
+    },
+    {
+        "nombre_cancion": "Smoke Gets in Your Eyes",
+        "nombre_artista": "The Platters",
+        "inicio_primer_lugar": "1959-1-19",
+        "final_primer_lugar": "1959-2-8",
+        "videoUrl": "https://www.youtube.com/embed/tHJRJC_5gzY"
+    },
+    {
+        "nombre_cancion": "Stagger Lee",
+        "nombre_artista": "Lloyd Price",
+        "inicio_primer_lugar": "1959-2-9",
+        "final_primer_lugar": "1959-3-8",
+        "videoUrl": "https://www.youtube.com/embed/c4H-rg1k4sw"
+    },
+    {
+        "nombre_cancion": "Venus",
+        "nombre_artista": "Frankie Avalon",
+        "inicio_primer_lugar": "1959-3-9",
+        "final_primer_lugar": "1959-4-12",
+        "videoUrl": "https://www.youtube.com/embed/7KOLKu0aBEc"
+    },
+    {
+        "nombre_cancion": "Come Softly to Me",
+        "nombre_artista": "The Fleetwoods",
+        "inicio_primer_lugar": "1959-4-13",
+        "final_primer_lugar": "1959-5-10",
+        "videoUrl": "https://www.youtube.com/embed/ABxtkaeC18Q"
+    },
+    {
+        "nombre_cancion": "The Happy Organ",
+        "nombre_artista": "Dave (Baby) Cortez",
+        "inicio_primer_lugar": "1959-5-11",
+        "final_primer_lugar": "1959-5-17",
+        "videoUrl": "https://www.youtube.com/embed/UkqptMcXInM"
+    },
+    {
+        "nombre_cancion": "Kansas City",
+        "nombre_artista": "Wilbert Harrison",
+        "inicio_primer_lugar": "1959-5-18",
+        "final_primer_lugar": "1959-5-31",
+        "videoUrl": "https://www.youtube.com/embed/WpudjdKJujQ"
+    },
+    {
+        "nombre_cancion": "The Battle of New Orleans",
+        "nombre_artista": "Johnny Horton",
+        "inicio_primer_lugar": "1959-6-1",
+        "final_primer_lugar": "1959-7-12",
+        "videoUrl": "https://www.youtube.com/embed/6v7CzfPUphY"
+    },
+    {
+        "nombre_cancion": "Lonely Boy",
+        "nombre_artista": "Paul Anka",
+        "inicio_primer_lugar": "1959-7-13",
+        "final_primer_lugar": "1959-8-9",
+        "videoUrl": "https://www.youtube.com/embed/toDaI_Qa4Ic"
+    },
+    {
+        "nombre_cancion": "A Big Hunk o' Love",
+        "nombre_artista": "Elvis Presley",
+        "inicio_primer_lugar": "1959-8-10",
+        "final_primer_lugar": "1959-8-23",
+        "videoUrl": "https://www.youtube.com/embed/19hC3O5dYb4"
+    },
+    {
+        "nombre_cancion": "The Three Bells",
+        "nombre_artista": "The Browns",
+        "inicio_primer_lugar": "1959-8-24",
+        "final_primer_lugar": "1959-9-20",
+        "videoUrl": "https://www.youtube.com/embed/WEl-a4XZSHM"
+    },
+    {
+        "nombre_cancion": "Sleep Walk",
+        "nombre_artista": "Santo & Johnny",
+        "inicio_primer_lugar": "1959-9-21",
+        "final_primer_lugar": "1959-10-4",
+        "videoUrl": "https://www.youtube.com/embed/qFIgrnOCtKA"
+    },
+    {
+        "nombre_cancion": "Mack the Knife",
+        "nombre_artista": "Bobby Darin",
+        "inicio_primer_lugar": "1959-10-5",
+        "final_primer_lugar": "1959-11-15",
+        "videoUrl": "https://www.youtube.com/embed/OEhu4_-urQU"
+    },
+    {
+        "nombre_cancion": "Mr. Blue",
+        "nombre_artista": "The Fleetwoods",
+        "inicio_primer_lugar": "1959-11-16",
+        "final_primer_lugar": "1959-11-22",
+        "videoUrl": "https://www.youtube.com/embed/cbB1Nq6QINw"
+    },
+    {
+        "nombre_cancion": "Mack the Knife",
+        "nombre_artista": "Bobby Darin",
+        "inicio_primer_lugar": "1959-11-23",
+        "final_primer_lugar": "1959-12-13",
+        "videoUrl": "https://www.youtube.com/embed/OEhu4_-urQU"
+    },
+    {
+        "nombre_cancion": "Heartaches by the Number",
+        "nombre_artista": "Guy Mitchell",
+        "inicio_primer_lugar": "1959-12-14",
+        "final_primer_lugar": "1959-12-27",
+        "videoUrl": "https://www.youtube.com/embed/HrtZAGmGl7w"
+    },
+    {
+        "nombre_cancion": "Why",
+        "nombre_artista": "Frankie Avalon",
+        "inicio_primer_lugar": "1959-12-28",
+        "final_primer_lugar": "1960-1-3",
+        "videoUrl": "https://www.youtube.com/embed/md2CVvRji-w"
+    }
+]
