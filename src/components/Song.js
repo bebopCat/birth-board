@@ -16,7 +16,7 @@ const Song = ({song, deleteSong}) => {
                 ></iframe>
             </div>
             <p className="description">
-                El dia que {song.convertedName} nacio la canción "<b>{song.songName}</b>" de <b>{song.artist}</b> fue la No 1 de la lista BillBoard.
+                El dia {song.date} cuando {song.convertedName} nacio la canción "<b>{song.songName}</b>" de <b>{song.artist}</b> fue la No 1 en la lista Bill-Board.
             </p>
             <button
                 className="delete-button"

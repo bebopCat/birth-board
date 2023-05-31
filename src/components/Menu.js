@@ -77,7 +77,7 @@ const Menu = ({songs}) => {
                     className="back-button"
                     type="button"
                     onClick={backButtonClick}>
-                    <img src="/images/arrow_up.svg" alt="flecha hacia arriba" />
+                    <img src="images/arrow_up.svg" alt="flecha hacia arriba" />
                 </button>
             <div className="bloqueo"></div>
         </Fragment>
