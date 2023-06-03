@@ -3,6 +3,7 @@ import Title from './components/Title';
 import Form from './components/Form';
 import Song from './components/Song';
 import Menu from './components/Menu';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -62,21 +63,24 @@ function App() {
           addSong={addSong}
         />
       </div>
-      <div className="songs-container">
-        {songs.length === 0 ? <p className="add-elements">Ingresa tus datos para descubrir tu canción, puedes coleccionar varias busquedas.</p> : null}
-        {songs.map(song => (
-              <Song
-                key={song.id}
-                song={song}
-                deleteSong={deleteSong}
-              />
-            ))}
+      <div className="songs-footer-container">
+        <div className="songs-container">
+          {songs.length === 0 ? <p className="add-elements">Ingresa tus datos para descubrir tu canción, puedes coleccionar varias busquedas.</p> : null}
+          {songs.map(song => (
+                <Song
+                  key={song.id}
+                  song={song}
+                  deleteSong={deleteSong}
+                />
+              ))}
+        </div>
+        <Footer />
       </div>
+      
       <div className="lateral-container">
-          <Menu
-            songs={songs}
-          />
+        { songs.length > 0 ? <Menu songs={songs} /> : null }
       </div>
+      
     </Fragment>
     
   );

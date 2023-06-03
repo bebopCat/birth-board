@@ -16,6 +16,10 @@
   font-family: "OpenSansMedium";
   src: url("../public/fonts/OpenSans-Medium.ttf");
 }
+@font-face{
+  font-family: "Providence";
+  src: url("../public/fonts/providence.ttf");
+}
 * {
   margin: 0;
   padding: 0;
@@ -28,7 +32,7 @@ html {
   overflow: hidden;
 }
 body {
-  background-color: #ED7557;
+  background-color: #fd7f5f;
   width: 100%;
 }
 
@@ -49,14 +53,19 @@ body {
   }
 }
 
+.songs-footer-container {
+  display: flex;
+  flex-direction: column;
+  @media screen and (min-width: #{$desktop}) {
+    width: 50%;
+  }
+}
+
 .songs-container {
   display: flex;
   flex-direction: column-reverse;
   background-color: #333333;
   z-index: 200;
-  @media screen and (min-width: #{$desktop}) {
-    width: 50%;
-  }
 }
 
 .lateral-container {

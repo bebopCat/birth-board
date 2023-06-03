@@ -45,6 +45,7 @@ const Menu = ({songs}) => {
     return(
         <Fragment>
             <ul className="menu-lateral">
+                <p className="sin-elementos">LISTA DE CONSULTAS</p>
                 {orderSongs.length === 0 ? <p className="sin-elementos">No hay elementos</p> : null}
                 {orderSongs.map(song => (
                     <li 
@@ -77,7 +78,7 @@ const Menu = ({songs}) => {
                     className="back-button"
                     type="button"
                     onClick={backButtonClick}>
-                    <img src="images/arrow_up.svg" alt="flecha hacia arriba" />
+                    <img src="/birth-board/images/arrow_up.svg" alt="flecha hacia arriba" />
                 </button>
             <div className="bloqueo"></div>
         </Fragment>

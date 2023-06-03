@@ -68,7 +68,7 @@ const Form = ({addSong}) => {
 
         // console.log(song);
 
-        fetch(`./years/${JSON.stringify(date.getFullYear())}.json`)
+        fetch(`/birth-board/years/${JSON.stringify(date.getFullYear())}.json`)
             .then(res => res.json())
             .then(json => {
                 const findedSong = json.find(lookedSong => (parseDate + 18000000) >= Date.parse(lookedSong.inicio_primer_lugar) && parseDate <= Date.parse(lookedSong.final_primer_lugar));
