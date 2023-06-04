@@ -10,6 +10,7 @@
 
 # production
 /build
+/public/years
 
 # misc
 .DS_Store

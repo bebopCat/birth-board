@@ -4,7 +4,7 @@ import './footer.scss';
 const Footer = () => {
     return(
         <Fragment>
-            <p className="footer"><spam className="logo">Bebopcat</spam>® dev </p>
+            <p className="footer"><span className="logo">Bebopcat</span>® dev </p>
         </Fragment>
     )
 }
