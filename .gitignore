@@ -10,7 +10,9 @@
 
 # production
 /build
-/public/years/*
+
+# ignora los json
+*.json
 
 # misc
 .DS_Store
